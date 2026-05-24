@@ -1,0 +1,9 @@
+doc_id,genre,period,author,title,text
+text_1,gothic,nineteenth_century,synthetic_author_a,Synthetic House,"The shadow crossed the old house and waited beside the mirror at night. The door opened toward a forest where the double carried a wound."
+text_2,romance,medieval,synthetic_author_b,Synthetic Quest,"The child crossed the river and entered the forest beyond the threshold. A queen gave a stone to the wanderer before the road disappeared."
+text_3,visionary_poetry,modern,synthetic_author_c,Synthetic Descent,"Fire, stone, dream, wound, and mask appeared in the underworld vision. The voice of night gathered around the tower."
+text_4,tragedy,early_modern,synthetic_author_d,Synthetic Crown,"The king saw blood on the mirror and heard a ghost in the hall. The crown became a mask, and the house became a tomb."
+text_5,magical_realism,contemporary,synthetic_author_e,Synthetic River,"The mother spoke from the river while birds circled the garden. A child carried the door of the old house across the sea."
+text_6,epic,ancient,synthetic_author_f,Synthetic Return,"The warrior followed the road through fire and night. At the threshold, a serpent guarded the stone and the lost queen."
+text_7,modernist,twentieth_century,synthetic_author_g,Synthetic Room,"The voice in the room broke into fragments. A mirror, a mask, and a wound repeated through the dream of the city."
+text_8,fairy_tale,traditional,synthetic_author_h,Synthetic Forest,"In the forest, the child met a ghost bird and found a bone beneath the tree. The door opened only after the shadow was named."

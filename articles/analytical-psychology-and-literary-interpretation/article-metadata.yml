@@ -1,0 +1,48 @@
+title: "Analytical Psychology and Literary Interpretation"
+slug: "analytical-psychology-and-literary-interpretation"
+series: "Analytical Psychology, Symbolism & the Depth Mind"
+series_url: "/analytical-psychology-symbolism-depth-mind/"
+repository: "https://github.com/Content-Catalyst-LLC/analytical-psychology-code/tree/main/articles/analytical-psychology-and-literary-interpretation"
+status: "companion scaffold"
+created_for: "WordPress article companion repository"
+description: >
+  Synthetic-data and conceptual-modeling scaffold for the article
+  "Analytical Psychology and Literary Interpretation." The materials
+  demonstrate how symbolic density, archetypal recurrence, motif co-occurrence,
+  formal centrality, affective charge, historical specificity, close-reading
+  quality, and reductive risk can be modeled for literary methods exploration.
+responsible_use: >
+  These materials are for synthetic-data research, methods demonstration,
+  literary methods exploration, conceptual modeling, institutional learning,
+  and reproducible workflows. They are not intended for author diagnosis,
+  psychological assessment, automated interpretation, cultural ranking,
+  literary canon ranking, student evaluation, employment screening, workplace
+  surveillance, individual performance management, or individual evaluation.
+keywords:
+  - analytical psychology
+  - Jungian literary criticism
+  - literary interpretation
+  - archetypal criticism
+  - symbolism
+  - shadow
+  - anima animus
+  - myth criticism
+  - dream logic
+  - visionary literature
+  - symbolic density
+  - motif networks
+  - archetypal clustering
+  - close reading
+  - literary corpus
+  - synthetic data
+  - reproducible workflow
+languages:
+  - Python
+  - R
+  - SQL
+  - Julia
+  - C
+  - C++
+  - Fortran
+  - Go
+  - Rust
