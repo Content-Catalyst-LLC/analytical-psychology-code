@@ -1,0 +1,51 @@
+title: "Analytical Psychology, Religion, and Spiritual Experience"
+slug: "analytical-psychology-religion-and-spiritual-experience"
+series: "Analytical Psychology, Symbolism & the Depth Mind"
+series_url: "/analytical-psychology-symbolism-depth-mind/"
+repository: "https://github.com/Content-Catalyst-LLC/analytical-psychology-code/tree/main/articles/analytical-psychology-religion-and-spiritual-experience"
+status: "companion scaffold"
+created_for: "WordPress article companion repository"
+description: >
+  Synthetic-data and conceptual-modeling scaffold for the article
+  "Analytical Psychology, Religion, and Spiritual Experience." The materials
+  demonstrate how numinous intensity, symbolic containment, ego stability,
+  shadow awareness, ritual support, humility, perceived mission, doctrinal
+  rigidity, religious trauma pressure, living-symbol vitality, inflation risk,
+  and integration potential can be modeled for symbolic-process research methods.
+responsible_use: >
+  These materials are for synthetic-data research, methods demonstration,
+  conceptual modeling, symbolic-process analysis, institutional learning, and
+  reproducible workflows. They are not intended for diagnosis, therapy,
+  psychological assessment, clinical decision-making, spiritual direction,
+  religious authority, employment screening, workplace surveillance, individual
+  performance management, or individual evaluation.
+keywords:
+  - analytical psychology
+  - Jungian psychology
+  - religion
+  - spiritual experience
+  - numinosity
+  - symbolic containment
+  - ritual practice
+  - religious imagination
+  - the Self
+  - shadow
+  - spiritual inflation
+  - religious trauma
+  - living symbol
+  - dogma
+  - mystical experience
+  - clinical discernment
+  - synthetic data
+  - dynamic networks
+  - reproducible workflow
+languages:
+  - Python
+  - R
+  - SQL
+  - Julia
+  - C
+  - C++
+  - Fortran
+  - Go
+  - Rust

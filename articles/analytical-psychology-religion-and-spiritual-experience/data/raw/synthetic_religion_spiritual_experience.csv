@@ -1,0 +1,17 @@
+case_id,religious_environment,time,numinous_intensity,symbolic_containment,ego_stability,shadow_awareness,ritual_support,humility_limit_awareness,perceived_mission,doctrinal_rigidity,symbolic_vitality,religious_trauma_pressure,communal_memory
+1,ritual_rich,1,0.76,0.84,0.76,0.68,0.86,0.74,0.32,0.40,0.82,0.22,0.84
+2,doctrinally_rigid,1,0.72,0.52,0.58,0.42,0.62,0.46,0.62,0.84,0.48,0.56,0.68
+3,symbolically_fragile,1,0.68,0.34,0.46,0.36,0.28,0.42,0.58,0.38,0.30,0.48,0.32
+4,mystical_practice,1,0.92,0.58,0.54,0.50,0.56,0.54,0.70,0.34,0.78,0.36,0.46
+5,post_religious_spirituality,1,0.82,0.46,0.52,0.44,0.34,0.48,0.66,0.30,0.58,0.42,0.28
+6,clinical_support,1,0.66,0.72,0.74,0.70,0.42,0.76,0.34,0.28,0.62,0.52,0.38
+7,religious_trauma_recovery,1,0.64,0.50,0.50,0.56,0.36,0.58,0.42,0.60,0.44,0.86,0.30
+8,interfaith_dialogue,1,0.70,0.74,0.68,0.72,0.68,0.70,0.38,0.32,0.76,0.26,0.62
+9,ritual_rich,2,0.72,0.88,0.80,0.74,0.90,0.80,0.28,0.36,0.86,0.18,0.88
+10,doctrinally_rigid,2,0.70,0.58,0.62,0.48,0.66,0.52,0.56,0.78,0.54,0.50,0.72
+11,symbolically_fragile,2,0.64,0.42,0.52,0.44,0.36,0.48,0.52,0.34,0.38,0.42,0.38
+12,mystical_practice,2,0.86,0.66,0.62,0.58,0.64,0.62,0.60,0.30,0.84,0.30,0.54
+13,post_religious_spirituality,2,0.78,0.56,0.60,0.52,0.44,0.56,0.58,0.26,0.66,0.36,0.34
+14,clinical_support,2,0.62,0.78,0.80,0.76,0.48,0.82,0.30,0.24,0.68,0.44,0.42
+15,religious_trauma_recovery,2,0.60,0.60,0.58,0.64,0.44,0.66,0.36,0.50,0.54,0.76,0.38
+16,interfaith_dialogue,2,0.68,0.80,0.74,0.78,0.74,0.76,0.34,0.28,0.82,0.22,0.70
