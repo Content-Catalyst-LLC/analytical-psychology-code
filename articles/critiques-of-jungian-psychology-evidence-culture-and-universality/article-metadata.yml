@@ -1,0 +1,51 @@
+title: "Critiques of Jungian Psychology: Evidence, Culture, and Universality"
+slug: "critiques-of-jungian-psychology-evidence-culture-and-universality"
+series: "Analytical Psychology, Symbolism & the Depth Mind"
+series_url: "/analytical-psychology-symbolism-depth-mind/"
+repository: "https://github.com/Content-Catalyst-LLC/analytical-psychology-code/tree/main/articles/critiques-of-jungian-psychology-evidence-culture-and-universality"
+status: "companion scaffold"
+created_for: "WordPress article companion repository"
+description: >
+  Synthetic-data and conceptual-modeling scaffold for the article
+  "Critiques of Jungian Psychology: Evidence, Culture, and Universality."
+  The materials demonstrate how interpretive breadth, empirical support,
+  cultural specificity, gender-critical revision, methodological explicitness,
+  clinical utility, symbolic usefulness, universalization, and problematic
+  inherited assumptions can be modeled for educational and research-methods
+  purposes.
+responsible_use: >
+  These materials are for synthetic-data research, methods demonstration,
+  conceptual modeling, institutional learning, and reproducible workflows.
+  They are not intended for diagnosis, therapy, psychological assessment,
+  clinical decision-making, cultural ranking, religious evaluation,
+  employment screening, workplace surveillance, individual performance
+  management, or individual evaluation.
+keywords:
+  - analytical psychology
+  - Jungian psychology
+  - critique
+  - evidence
+  - culture
+  - universality
+  - archetypes
+  - collective unconscious
+  - anima animus
+  - gender essentialism
+  - coloniality
+  - race
+  - confirmation bias
+  - methodological explicitness
+  - cultural humility
+  - synthetic data
+  - critique network
+  - reproducible workflow
+languages:
+  - Python
+  - R
+  - SQL
+  - Julia
+  - C
+  - C++
+  - Fortran
+  - Go
+  - Rust
