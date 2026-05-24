@@ -1,0 +1,53 @@
+title: "Childhood Development in Jungian and Post-Jungian Thought"
+slug: "childhood-development-in-jungian-and-post-jungian-thought"
+series: "Analytical Psychology, Symbolism & the Depth Mind"
+series_url: "/analytical-psychology-symbolism-depth-mind/"
+repository: "https://github.com/Content-Catalyst-LLC/analytical-psychology-code/tree/main/articles/childhood-development-in-jungian-and-post-jungian-thought"
+status: "companion scaffold"
+created_for: "WordPress article companion repository"
+description: >
+  Synthetic-data and conceptual-modeling scaffold for the article "Childhood
+  Development in Jungian and Post-Jungian Thought." The materials demonstrate
+  how ego differentiation, relational security, caregiver mirroring, bodily
+  regulation, symbolic play, affect regulation, complex activation, family
+  tension, developmental coherence, and future personality can be modeled for
+  symbolic-process research methods.
+responsible_use: >
+  These materials are for synthetic-data research, methods demonstration,
+  conceptual modeling, symbolic-process analysis, institutional learning, and
+  reproducible workflows. They are not intended for diagnosis, therapy,
+  psychological assessment, educational evaluation, child assessment, clinical
+  decision-making, treatment recommendation, employment screening, workplace
+  surveillance, individual performance management, or individual evaluation.
+keywords:
+  - analytical psychology
+  - Jungian psychology
+  - post-Jungian thought
+  - childhood development
+  - ego differentiation
+  - relational security
+  - attachment
+  - object relations
+  - symbolic play
+  - caregiver mirroring
+  - affect regulation
+  - bodily regulation
+  - complexes
+  - family atmosphere
+  - child archetype
+  - developmental coherence
+  - symbolic capacity
+  - future personality
+  - synthetic data
+  - dynamic networks
+  - reproducible workflow
+languages:
+  - Python
+  - R
+  - SQL
+  - Julia
+  - C
+  - C++
+  - Fortran
+  - Go
+  - Rust
