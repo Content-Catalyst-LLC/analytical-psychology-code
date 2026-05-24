@@ -1,0 +1,50 @@
+title: "Jung, Freud, and the Divergence of Depth Psychologies"
+slug: "jung-freud-and-the-divergence-of-depth-psychologies"
+series: "Analytical Psychology, Symbolism & the Depth Mind"
+series_url: "/analytical-psychology-symbolism-depth-mind/"
+repository: "https://github.com/Content-Catalyst-LLC/analytical-psychology-code/tree/main/articles/jung-freud-and-the-divergence-of-depth-psychologies"
+status: "companion scaffold"
+created_for: "WordPress article companion repository"
+description: >
+  Synthetic-data and conceptual-modeling scaffold for the article
+  "Jung, Freud, and the Divergence of Depth Psychologies." The materials
+  demonstrate how Freudian and Jungian explanatory orientations can be modeled
+  through variables such as repression, sexuality conflict, infantile history,
+  defense intensity, transference pressure, compensation, archetypal density,
+  mythic amplification, prospective development, symbolic coherence, and
+  individuation pressure.
+responsible_use: >
+  These materials are for synthetic-data research, methods demonstration,
+  conceptual modeling, institutional learning, and reproducible workflows.
+  They are not intended for diagnosis, therapy, psychological assessment,
+  clinical decision-making, employment screening, workplace surveillance,
+  individual performance management, or individual evaluation.
+keywords:
+  - analytical psychology
+  - Jungian psychology
+  - Freud
+  - psychoanalysis
+  - depth psychology
+  - repression
+  - sexuality
+  - libido
+  - dreams
+  - symbol
+  - archetype
+  - compensation
+  - individuation
+  - collective unconscious
+  - transference
+  - synthetic data
+  - concept networks
+  - reproducible workflow
+languages:
+  - Python
+  - R
+  - SQL
+  - Julia
+  - C
+  - C++
+  - Fortran
+  - Go
+  - Rust
