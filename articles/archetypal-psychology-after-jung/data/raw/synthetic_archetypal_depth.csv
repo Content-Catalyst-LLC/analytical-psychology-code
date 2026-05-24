@@ -1,0 +1,17 @@
+case_id,presentation_type,time,psychic_plurality,imaginal_density,metaphorical_richness,symptom_image_intensity,integrative_pressure,literalizing_force,diagnostic_dominance,clinical_containment
+1,dream_sequence,1,0.82,0.88,0.79,0.61,0.34,0.27,0.30,0.72
+2,creative_block,1,0.74,0.80,0.82,0.54,0.42,0.34,0.36,0.68
+3,depressive_descent,1,0.66,0.76,0.70,0.84,0.48,0.39,0.44,0.74
+4,erotic_conflict,1,0.78,0.73,0.77,0.70,0.45,0.35,0.38,0.66
+5,symbolic_crisis,1,0.88,0.90,0.84,0.75,0.38,0.29,0.33,0.70
+6,cultural_image,1,0.72,0.83,0.86,0.50,0.41,0.32,0.40,0.61
+7,obsessional_ritual,1,0.61,0.69,0.64,0.82,0.56,0.50,0.58,0.77
+8,grief_image,1,0.70,0.78,0.76,0.86,0.44,0.33,0.39,0.80
+9,dream_sequence,2,0.86,0.91,0.83,0.64,0.31,0.24,0.27,0.76
+10,creative_block,2,0.78,0.84,0.86,0.58,0.38,0.30,0.32,0.72
+11,depressive_descent,2,0.70,0.80,0.74,0.88,0.44,0.35,0.40,0.79
+12,erotic_conflict,2,0.82,0.77,0.81,0.74,0.41,0.31,0.34,0.70
+13,symbolic_crisis,2,0.91,0.94,0.88,0.79,0.34,0.25,0.29,0.74
+14,cultural_image,2,0.76,0.87,0.90,0.54,0.37,0.28,0.36,0.65
+15,obsessional_ritual,2,0.65,0.73,0.68,0.86,0.52,0.46,0.54,0.81
+16,grief_image,2,0.74,0.82,0.80,0.90,0.40,0.29,0.35,0.84

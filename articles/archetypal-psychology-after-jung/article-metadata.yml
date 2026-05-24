@@ -1,0 +1,48 @@
+title: "Archetypal Psychology After Jung"
+slug: "archetypal-psychology-after-jung"
+series: "Analytical Psychology, Symbolism & the Depth Mind"
+series_url: "/analytical-psychology-symbolism-depth-mind/"
+repository: "https://github.com/Content-Catalyst-LLC/analytical-psychology-code/tree/main/articles/archetypal-psychology-after-jung"
+status: "companion scaffold"
+created_for: "WordPress article companion repository"
+description: >
+  Synthetic-data and conceptual-modeling scaffold for the article
+  "Archetypal Psychology After Jung." The materials demonstrate how
+  archetypal depth, imaginal density, psychic plurality, metaphorical richness,
+  symptom-image intensity, integrative pressure, literalizing force, diagnostic
+  dominance, clinical containment, aesthetic richness, and flattening risk can
+  be modeled for educational and research-methods purposes.
+responsible_use: >
+  These materials are for synthetic-data research, methods demonstration,
+  conceptual modeling, institutional learning, and reproducible workflows.
+  They are not intended for diagnosis, therapy, psychological assessment,
+  clinical decision-making, employment screening, workplace surveillance,
+  individual performance management, or individual evaluation.
+keywords:
+  - analytical psychology
+  - Jungian psychology
+  - archetypal psychology
+  - James Hillman
+  - soul-making
+  - psyche as image
+  - polytheistic psychology
+  - archetypes
+  - imagination
+  - imaginal density
+  - psychic plurality
+  - symptom image
+  - integrative pressure
+  - literalism
+  - polycentric networks
+  - synthetic data
+  - reproducible workflow
+languages:
+  - Python
+  - R
+  - SQL
+  - Julia
+  - C
+  - C++
+  - Fortran
+  - Go
+  - Rust
