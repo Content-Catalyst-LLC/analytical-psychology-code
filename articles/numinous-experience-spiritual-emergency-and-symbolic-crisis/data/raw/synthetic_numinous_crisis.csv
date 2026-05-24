@@ -1,0 +1,13 @@
+case_id,symbolic_environment,time,numinous_intensity,symbolic_containment,ego_stability,trauma_vulnerability,shadow_awareness,relational_support,ritual_containment,sleep_disruption,practice_intensity,perceived_mission,humility_limit_awareness
+1,ritual_rich,1,0.78,0.82,0.74,0.30,0.66,0.78,0.84,0.26,0.52,0.34,0.72
+2,ritual_fragile,1,0.86,0.42,0.46,0.58,0.38,0.44,0.36,0.62,0.70,0.68,0.40
+3,solitary,1,0.92,0.34,0.40,0.66,0.32,0.28,0.24,0.74,0.86,0.78,0.34
+4,clinical_support,1,0.74,0.70,0.68,0.56,0.62,0.76,0.48,0.42,0.46,0.38,0.70
+5,community_support,1,0.80,0.76,0.70,0.44,0.68,0.82,0.66,0.34,0.54,0.42,0.74
+6,high_practice_intensity,1,0.94,0.38,0.42,0.54,0.36,0.36,0.30,0.78,0.96,0.84,0.32
+7,ritual_rich,2,0.72,0.86,0.78,0.28,0.72,0.82,0.88,0.22,0.48,0.30,0.78
+8,ritual_fragile,2,0.82,0.50,0.54,0.52,0.48,0.52,0.44,0.54,0.62,0.58,0.50
+9,solitary,2,0.88,0.42,0.48,0.60,0.42,0.34,0.30,0.66,0.78,0.70,0.44
+10,clinical_support,2,0.70,0.78,0.74,0.50,0.70,0.82,0.56,0.34,0.42,0.34,0.78
+11,community_support,2,0.76,0.82,0.76,0.38,0.74,0.88,0.74,0.28,0.50,0.36,0.82
+12,high_practice_intensity,2,0.90,0.46,0.50,0.48,0.46,0.44,0.38,0.68,0.88,0.74,0.44

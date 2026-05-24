@@ -1,0 +1,50 @@
+title: "Numinous Experience, Spiritual Emergency, and Symbolic Crisis"
+slug: "numinous-experience-spiritual-emergency-and-symbolic-crisis"
+series: "Analytical Psychology, Symbolism & the Depth Mind"
+series_url: "/analytical-psychology-symbolism-depth-mind/"
+repository: "https://github.com/Content-Catalyst-LLC/analytical-psychology-code/tree/main/articles/numinous-experience-spiritual-emergency-and-symbolic-crisis"
+status: "companion scaffold"
+created_for: "WordPress article companion repository"
+description: >
+  Synthetic-data and conceptual-modeling scaffold for the article
+  "Numinous Experience, Spiritual Emergency, and Symbolic Crisis." The
+  materials demonstrate how numinous intensity, symbolic containment, ego
+  stability, trauma vulnerability, shadow awareness, relational support,
+  sleep disruption, perceived mission, inflation risk, crisis risk, and
+  integration potential can be modeled for symbolic-process research methods.
+responsible_use: >
+  These materials are for synthetic-data research, methods demonstration,
+  conceptual modeling, symbolic-process analysis, institutional learning, and
+  reproducible workflows. They are not intended for diagnosis, therapy,
+  psychological assessment, clinical decision-making, spiritual direction,
+  crisis intervention, employment screening, workplace surveillance,
+  individual performance management, or individual evaluation.
+keywords:
+  - analytical psychology
+  - Jungian psychology
+  - numinous experience
+  - spiritual emergency
+  - symbolic crisis
+  - archetypal intensity
+  - inflation
+  - possession
+  - ego stability
+  - symbolic containment
+  - ritual containment
+  - trauma vulnerability
+  - dissociation
+  - shadow awareness
+  - integration
+  - synthetic data
+  - dynamic networks
+  - reproducible workflow
+languages:
+  - Python
+  - R
+  - SQL
+  - Julia
+  - C
+  - C++
+  - Fortran
+  - Go
+  - Rust

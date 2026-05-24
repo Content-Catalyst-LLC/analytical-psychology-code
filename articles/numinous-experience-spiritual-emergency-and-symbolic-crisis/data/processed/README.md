@@ -1,3 +1,5 @@
 # Processed Data
 
-Processed synthetic outputs are written here.
+Processed synthetic datasets can be written here.
+
+Do not include sensitive, private, clinical, therapeutic, spiritual-direction, crisis, or personally identifiable information.
