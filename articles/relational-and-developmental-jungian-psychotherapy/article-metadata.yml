@@ -1,0 +1,53 @@
+title: "Relational and Developmental Jungian Psychotherapy"
+slug: "relational-and-developmental-jungian-psychotherapy"
+series: "Analytical Psychology, Symbolism & the Depth Mind"
+series_url: "/analytical-psychology-symbolism-depth-mind/"
+repository: "https://github.com/Content-Catalyst-LLC/analytical-psychology-code/tree/main/articles/relational-and-developmental-jungian-psychotherapy"
+status: "companion scaffold"
+created_for: "WordPress article companion repository"
+description: >
+  Synthetic-data and conceptual-modeling scaffold for the article
+  "Relational and Developmental Jungian Psychotherapy." The materials
+  demonstrate how relational safety, attachment security, affect regulation,
+  rupture intensity, repair capacity, shame load, fragmentation, embodied
+  safety, symbolic capacity, dream richness, reflective selfhood, and
+  developmental integration can be modeled for symbolic-process research
+  methods.
+responsible_use: >
+  These materials are for synthetic-data research, methods demonstration,
+  conceptual modeling, symbolic-process analysis, institutional learning, and
+  reproducible workflows. They are not intended for diagnosis, therapy,
+  psychological assessment, clinical decision-making, therapist evaluation,
+  employment screening, workplace surveillance, individual performance
+  management, or individual evaluation.
+keywords:
+  - analytical psychology
+  - Jungian psychotherapy
+  - relational Jungian therapy
+  - developmental Jungian therapy
+  - attachment
+  - affect regulation
+  - rupture and repair
+  - transference
+  - countertransference
+  - enactment
+  - symbolic capacity
+  - dream richness
+  - developmental integration
+  - shame
+  - fragmentation
+  - trauma
+  - dissociation
+  - synthetic data
+  - dynamic networks
+  - reproducible workflow
+languages:
+  - Python
+  - R
+  - SQL
+  - Julia
+  - C
+  - C++
+  - Fortran
+  - Go
+  - Rust
