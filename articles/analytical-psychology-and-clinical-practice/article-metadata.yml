@@ -1,0 +1,50 @@
+title: "Analytical Psychology and Clinical Practice"
+slug: "analytical-psychology-and-clinical-practice"
+series: "Analytical Psychology, Symbolism & the Depth Mind"
+series_url: "/analytical-psychology-symbolism-depth-mind/"
+repository: "https://github.com/Content-Catalyst-LLC/analytical-psychology-code/tree/main/articles/analytical-psychology-and-clinical-practice"
+status: "companion scaffold"
+created_for: "WordPress article companion repository"
+description: >
+  Synthetic-data and conceptual-modeling scaffold for the article
+  "Analytical Psychology and Clinical Practice." The materials demonstrate how
+  symptom burden, ego integration, symbolic capacity, relational safety, affect
+  regulation, conscious one-sidedness, complex activation, trauma fragmentation,
+  shame load, dream richness, compensatory pressure, and clinical functioning
+  can be modeled for symbolic-process research methods.
+responsible_use: >
+  These materials are for synthetic-data research, methods demonstration,
+  conceptual modeling, symbolic-process analysis, institutional learning, and
+  reproducible workflows. They are not intended for diagnosis, therapy,
+  psychological assessment, clinical decision-making, therapist evaluation,
+  employment screening, workplace surveillance, individual performance
+  management, or individual evaluation.
+keywords:
+  - analytical psychology
+  - Jungian psychotherapy
+  - clinical practice
+  - complexes
+  - compensation
+  - dream work
+  - symbolic capacity
+  - ego integration
+  - relational safety
+  - symptom burden
+  - transference
+  - countertransference
+  - trauma caution
+  - active imagination
+  - clinical formulation
+  - synthetic data
+  - dynamic networks
+  - reproducible workflow
+languages:
+  - Python
+  - R
+  - SQL
+  - Julia
+  - C
+  - C++
+  - Fortran
+  - Go
+  - Rust
