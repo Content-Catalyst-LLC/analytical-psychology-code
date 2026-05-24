@@ -1,39 +1,53 @@
--- Article-level synthetic analytical psychology schema.
--- Educational only. Not clinical, diagnostic, or therapeutic.
+-- ============================================================
+-- Jung, Alchemy, and Symbolic Transformation
+-- SQL schema for synthetic alchemical-stage modeling
+-- ============================================================
 
-CREATE TABLE IF NOT EXISTS symbolic_observations (
-    observation_id INTEGER PRIMARY KEY,
-    person_id TEXT NOT NULL,
-    period INTEGER NOT NULL,
-    cultural_mediation REAL,
-    psyche_score REAL,
-    symbolic_access REAL,
-    ego_differentiation REAL,
-    affective_containment REAL,
-    relational_depth REAL,
-    transformative_processing REAL,
-    fragmentation_pressure REAL,
-    high_psychic_integration INTEGER
+CREATE TABLE IF NOT EXISTS alchemical_transformation_cases (
+    case_id INTEGER PRIMARY KEY,
+    symbolic_stage TEXT NOT NULL,
+    time_period INTEGER NOT NULL,
+    nigredo_pressure REAL NOT NULL,
+    albedo_clarity REAL NOT NULL,
+    rubedo_vitality REAL NOT NULL,
+    vessel_strength REAL NOT NULL,
+    onesidedness REAL NOT NULL,
+    mercurial_volatility REAL NOT NULL,
+    shadow_intensity REAL NOT NULL,
+    affective_heat REAL NOT NULL,
+    pole_x REAL NOT NULL,
+    pole_y REAL NOT NULL,
+    responsible_use_note TEXT DEFAULT 'Synthetic educational data only; not for diagnosis, therapy, spiritual direction, assessment, screening, surveillance, or individual evaluation.'
 );
 
-CREATE TABLE IF NOT EXISTS dream_symbol_codes (
-    code_id INTEGER PRIMARY KEY,
-    person_id TEXT NOT NULL,
-    period INTEGER NOT NULL,
-    symbol_label TEXT,
-    affective_charge REAL,
-    recurrence_count INTEGER,
-    interpretive_openness REAL
+CREATE TABLE IF NOT EXISTS alchemical_symbol_dictionary (
+    symbol TEXT PRIMARY KEY,
+    cluster TEXT NOT NULL,
+    notes TEXT
 );
 
-CREATE INDEX IF NOT EXISTS idx_symbolic_obs_person
-ON symbolic_observations(person_id);
-
-CREATE INDEX IF NOT EXISTS idx_symbolic_obs_period
-ON symbolic_observations(period);
-
-CREATE INDEX IF NOT EXISTS idx_dream_codes_person
-ON dream_symbol_codes(person_id);
-
-CREATE INDEX IF NOT EXISTS idx_dream_codes_symbol
-ON dream_symbol_codes(symbol_label);
+CREATE VIEW IF NOT EXISTS alchemical_transformation_scores AS
+SELECT
+    case_id,
+    symbolic_stage,
+    time_period,
+    (
+        0.42 * nigredo_pressure +
+        0.55 * albedo_clarity +
+        0.66 * rubedo_vitality +
+        0.58 * vessel_strength -
+        0.60 * onesidedness -
+        0.30 * ABS(mercurial_volatility)
+    ) AS transformation_score,
+    (
+        0.55 * (pole_x * pole_y) -
+        0.40 * ABS(pole_x - pole_y) +
+        0.35 * vessel_strength
+    ) AS coniunctio_index,
+    CASE
+        WHEN affective_heat + shadow_intensity - vessel_strength > 0
+        THEN affective_heat + shadow_intensity - vessel_strength
+        ELSE 0
+    END AS vessel_failure_risk,
+    vessel_strength - affective_heat AS containment_minus_heat
+FROM alchemical_transformation_cases;

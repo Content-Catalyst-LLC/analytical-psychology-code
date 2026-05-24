@@ -1,0 +1,49 @@
+title: "Jung, Alchemy, and Symbolic Transformation"
+slug: "jung-alchemy-and-symbolic-transformation"
+series: "Analytical Psychology, Symbolism & the Depth Mind"
+series_url: "/analytical-psychology-symbolism-depth-mind/"
+repository: "https://github.com/Content-Catalyst-LLC/analytical-psychology-code/tree/main/articles/jung-alchemy-and-symbolic-transformation"
+status: "companion scaffold"
+created_for: "WordPress article companion repository"
+description: >
+  Synthetic-data and conceptual-modeling scaffold for the article
+  "Jung, Alchemy, and Symbolic Transformation." The materials demonstrate
+  how nigredo, albedo, rubedo, coniunctio, Mercurius, vessel strength, shadow
+  material, one-sidedness, affective heat, vessel failure, and integration can
+  be modeled for symbolic-process research methods.
+responsible_use: >
+  These materials are for synthetic-data research, methods demonstration,
+  conceptual modeling, symbolic-process analysis, institutional learning, and
+  reproducible workflows. They are not intended for diagnosis, therapy,
+  psychological assessment, clinical decision-making, spiritual direction,
+  employment screening, workplace surveillance, individual performance
+  management, or individual evaluation.
+keywords:
+  - analytical psychology
+  - Jungian psychology
+  - alchemy
+  - symbolic transformation
+  - nigredo
+  - albedo
+  - rubedo
+  - coniunctio
+  - Mercurius
+  - philosopher's stone
+  - vessel
+  - temenos
+  - individuation
+  - shadow
+  - symbolic process
+  - synthetic data
+  - dynamic networks
+  - reproducible workflow
+languages:
+  - Python
+  - R
+  - SQL
+  - Julia
+  - C
+  - C++
+  - Fortran
+  - Go
+  - Rust
