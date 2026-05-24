@@ -1,0 +1,49 @@
+title: "Post-Jungian Developments in Clinical Analytical Psychology"
+slug: "post-jungian-developments-in-clinical-analytical-psychology"
+series: "Analytical Psychology, Symbolism & the Depth Mind"
+series_url: "/analytical-psychology-symbolism-depth-mind/"
+repository: "https://github.com/Content-Catalyst-LLC/analytical-psychology-code/tree/main/articles/post-jungian-developments-in-clinical-analytical-psychology"
+status: "companion scaffold"
+created_for: "WordPress article companion repository"
+description: >
+  Synthetic-data and conceptual-modeling scaffold for the article
+  "Post-Jungian Developments in Clinical Analytical Psychology." The materials
+  demonstrate how symbolic depth, relational sophistication, developmental
+  precision, trauma sensitivity, embodied regulation, cultural responsiveness,
+  doctrinal rigidity, symbolic readiness, balance, and clinical adequacy can be
+  modeled for educational and research-methods purposes.
+responsible_use: >
+  These materials are for synthetic-data research, methods demonstration,
+  conceptual modeling, institutional learning, and reproducible workflows.
+  They are not intended for diagnosis, therapy, psychological assessment,
+  clinical decision-making, employment screening, workplace surveillance,
+  individual performance management, or individual evaluation.
+keywords:
+  - analytical psychology
+  - Jungian psychology
+  - post-Jungian psychology
+  - clinical analytical psychology
+  - developmental Jungian psychology
+  - relational Jungian psychotherapy
+  - attachment theory
+  - trauma sensitivity
+  - dissociation
+  - countertransference
+  - enactment
+  - symbolic readiness
+  - clinical adequacy
+  - embodied regulation
+  - cultural responsiveness
+  - synthetic data
+  - dynamic networks
+  - reproducible workflow
+languages:
+  - Python
+  - R
+  - SQL
+  - Julia
+  - C
+  - C++
+  - Fortran
+  - Go
+  - Rust

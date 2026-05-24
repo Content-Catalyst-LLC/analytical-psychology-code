@@ -1,0 +1,13 @@
+model_id,school_tendency,time,symbolic_depth,relational_sophistication,developmental_precision,trauma_sensitivity,embodied_regulation,cultural_responsiveness,doctrinal_rigidity,fragmentation_load,affect_tolerance,relational_holding,grounding_capacity
+1,classical,1,0.86,0.48,0.42,0.38,0.36,0.34,0.62,0.44,0.52,0.50,0.48
+2,developmental,1,0.66,0.70,0.82,0.60,0.55,0.48,0.38,0.50,0.68,0.72,0.65
+3,archetypal,1,0.90,0.46,0.40,0.36,0.34,0.42,0.52,0.38,0.54,0.48,0.46
+4,relational,1,0.70,0.84,0.66,0.62,0.54,0.58,0.32,0.46,0.74,0.82,0.70
+5,trauma_informed,1,0.62,0.76,0.72,0.88,0.80,0.62,0.26,0.72,0.82,0.84,0.86
+6,integrative,1,0.80,0.82,0.78,0.80,0.76,0.72,0.28,0.52,0.82,0.84,0.80
+7,classical,2,0.88,0.52,0.46,0.42,0.40,0.38,0.56,0.40,0.56,0.54,0.52
+8,developmental,2,0.70,0.74,0.86,0.66,0.60,0.54,0.34,0.46,0.72,0.76,0.70
+9,archetypal,2,0.92,0.50,0.44,0.40,0.38,0.48,0.46,0.34,0.58,0.52,0.50
+10,relational,2,0.74,0.88,0.70,0.68,0.60,0.64,0.28,0.42,0.78,0.86,0.76
+11,trauma_informed,2,0.66,0.80,0.76,0.92,0.86,0.68,0.22,0.66,0.86,0.88,0.90
+12,integrative,2,0.84,0.86,0.82,0.86,0.82,0.78,0.24,0.48,0.86,0.88,0.84
