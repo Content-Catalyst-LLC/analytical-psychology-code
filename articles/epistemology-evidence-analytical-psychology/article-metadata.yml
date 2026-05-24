@@ -1,0 +1,46 @@
+title: "Epistemology and Evidence in Analytical Psychology"
+slug: "epistemology-evidence-analytical-psychology"
+series: "Analytical Psychology, Symbolism & the Depth Mind"
+series_url: "/analytical-psychology-symbolism-depth-mind/"
+repository: "https://github.com/Content-Catalyst-LLC/analytical-psychology-code/tree/main/articles/epistemology-evidence-analytical-psychology"
+status: "companion scaffold"
+created_for: "WordPress article companion repository"
+description: >
+  Synthetic-data and conceptual-modeling scaffold for the article
+  "Epistemology and Evidence in Analytical Psychology." The materials
+  demonstrate how empirical support, hermeneutic coherence, clinical utility,
+  phenomenological adequacy, contextual specificity, methodological explicitness,
+  ambiguity inflation, universalizing force, and selective evidence can be
+  modeled for educational and research-methods purposes.
+responsible_use: >
+  These materials are for synthetic-data research, methods demonstration,
+  conceptual modeling, institutional learning, and reproducible workflows.
+  They are not intended for diagnosis, therapy, psychological assessment,
+  clinical decision-making, employment screening, workplace surveillance,
+  individual performance management, or individual evaluation.
+keywords:
+  - analytical psychology
+  - Jungian psychology
+  - epistemology
+  - evidence
+  - hermeneutics
+  - clinical warrant
+  - empirical support
+  - phenomenology
+  - archetypes
+  - collective unconscious
+  - methodological explicitness
+  - ambiguity inflation
+  - synthetic data
+  - conceptual modeling
+  - reproducible workflow
+languages:
+  - Python
+  - R
+  - SQL
+  - Julia
+  - C
+  - C++
+  - Fortran
+  - Go
+  - Rust

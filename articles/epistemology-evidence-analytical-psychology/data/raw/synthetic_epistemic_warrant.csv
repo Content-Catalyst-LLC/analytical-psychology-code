@@ -1,0 +1,15 @@
+claim_id,claim_type,time,empirical_support,hermeneutic_coherence,clinical_utility,phenomenological_adequacy,contextual_specificity,methodological_explicitness,ambiguity_inflation,universalizing_force,selective_evidence
+1,dream_interpretation,1,0.38,0.82,0.76,0.79,0.64,0.68,0.31,0.42,0.33
+2,archetype_theory,1,0.34,0.77,0.55,0.70,0.48,0.52,0.62,0.74,0.56
+3,collective_unconscious,1,0.24,0.70,0.44,0.63,0.41,0.45,0.72,0.82,0.63
+4,therapy_outcome,1,0.72,0.51,0.82,0.52,0.59,0.76,0.26,0.28,0.24
+5,comparative_symbolism,1,0.30,0.78,0.42,0.61,0.72,0.66,0.48,0.68,0.52
+6,phenomenological_description,1,0.31,0.69,0.50,0.86,0.67,0.71,0.35,0.36,0.32
+7,clinical_heuristic,1,0.46,0.74,0.80,0.72,0.63,0.73,0.30,0.35,0.29
+8,dream_interpretation,2,0.42,0.84,0.78,0.81,0.68,0.72,0.28,0.39,0.30
+9,archetype_theory,2,0.37,0.79,0.58,0.72,0.52,0.58,0.56,0.69,0.50
+10,collective_unconscious,2,0.27,0.72,0.46,0.65,0.45,0.50,0.66,0.78,0.58
+11,therapy_outcome,2,0.76,0.54,0.85,0.55,0.61,0.80,0.23,0.25,0.21
+12,comparative_symbolism,2,0.33,0.81,0.44,0.64,0.77,0.70,0.42,0.61,0.47
+13,phenomenological_description,2,0.34,0.72,0.52,0.88,0.71,0.75,0.31,0.32,0.28
+14,clinical_heuristic,2,0.49,0.77,0.83,0.74,0.67,0.76,0.27,0.31,0.25
