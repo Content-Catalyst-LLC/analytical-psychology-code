@@ -1,0 +1,47 @@
+title: "Non-Western Symbol Systems and the Limits of Jungian Universality"
+slug: "non-western-symbol-systems-limits-jungian-universality"
+series: "Analytical Psychology, Symbolism & the Depth Mind"
+series_url: "/analytical-psychology-symbolism-depth-mind/"
+repository: "https://github.com/Content-Catalyst-LLC/analytical-psychology-code/tree/main/articles/non-western-symbol-systems-limits-jungian-universality"
+status: "companion scaffold"
+created_for: "WordPress article companion repository"
+description: >
+  Synthetic-data and conceptual-modeling scaffold for the article
+  "Non-Western Symbol Systems and the Limits of Jungian Universality."
+  The materials demonstrate how symbolic recurrence, contextual specificity,
+  linguistic depth, ritual context, dialogical accountability, universalizing
+  force, abstraction pressure, contextual divergence, functional convergence,
+  and flattening risk can be modeled for educational and research-methods
+  purposes.
+responsible_use: >
+  These materials are for synthetic-data research, methods demonstration,
+  conceptual modeling, institutional learning, and reproducible workflows.
+  They are not intended for diagnosis, therapy, psychological assessment,
+  clinical decision-making, cultural ranking, religious evaluation,
+  employment screening, workplace surveillance, individual performance
+  management, or individual evaluation.
+keywords:
+  - analytical psychology
+  - Jungian psychology
+  - non-Western symbol systems
+  - Jungian universality
+  - symbolic recurrence
+  - contextual specificity
+  - comparative symbolism
+  - cultural humility
+  - cultural appropriation
+  - archetypes
+  - collective unconscious
+  - synthetic data
+  - layered networks
+  - reproducible workflow
+languages:
+  - Python
+  - R
+  - SQL
+  - Julia
+  - C
+  - C++
+  - Fortran
+  - Go
+  - Rust
