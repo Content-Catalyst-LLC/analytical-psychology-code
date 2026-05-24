@@ -1,0 +1,49 @@
+title: "Midlife, Meaning, and Individuation"
+slug: "midlife-meaning-and-individuation"
+series: "Analytical Psychology, Symbolism & the Depth Mind"
+series_url: "/analytical-psychology-symbolism-depth-mind/"
+repository: "https://github.com/Content-Catalyst-LLC/analytical-psychology-code/tree/main/articles/midlife-meaning-and-individuation"
+status: "companion scaffold"
+created_for: "WordPress article companion repository"
+description: >
+  Synthetic-data and conceptual-modeling scaffold for the article "Midlife,
+  Meaning, and Individuation." The materials demonstrate how adaptation strength,
+  persona identification, symbolic activation, unlived-life pressure, finitude
+  awareness, outward-inward discrepancy, shadow integration, reflective capacity,
+  meaning coherence, transition intensity, and second-half orientation can be
+  modeled for symbolic-process research methods.
+responsible_use: >
+  These materials are for synthetic-data research, methods demonstration,
+  conceptual modeling, symbolic-process analysis, institutional learning, and
+  reproducible workflows. They are not intended for diagnosis, therapy,
+  psychological assessment, life prediction, clinical decision-making, employment
+  screening, workplace surveillance, individual performance management, or
+  individual evaluation.
+keywords:
+  - analytical psychology
+  - Jungian psychology
+  - midlife
+  - individuation
+  - meaning
+  - persona
+  - shadow
+  - unlived life
+  - finitude
+  - second half of life
+  - symbolic activation
+  - meaning coherence
+  - transition intensity
+  - symbolic center
+  - synthetic data
+  - dynamic networks
+  - reproducible workflow
+languages:
+  - Python
+  - R
+  - SQL
+  - Julia
+  - C
+  - C++
+  - Fortran
+  - Go
+  - Rust
