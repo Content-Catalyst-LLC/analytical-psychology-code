@@ -1,0 +1,50 @@
+title: "Trauma, Dissociation, and the Fragmented Psyche"
+slug: "trauma-dissociation-and-the-fragmented-psyche"
+series: "Analytical Psychology, Symbolism & the Depth Mind"
+series_url: "/analytical-psychology-symbolism-depth-mind/"
+repository: "https://github.com/Content-Catalyst-LLC/analytical-psychology-code/tree/main/articles/trauma-dissociation-and-the-fragmented-psyche"
+status: "companion scaffold"
+created_for: "WordPress article companion repository"
+description: >
+  Synthetic-data and conceptual-modeling scaffold for the article
+  "Trauma, Dissociation, and the Fragmented Psyche." The materials demonstrate
+  how affect intensity, ego integration, symbolic capacity, relational safety,
+  bodily regulation, dissociation, nightmare intrusion, memory continuity,
+  symbolic recovery, and integration potential can be modeled for symbolic-process
+  research methods.
+responsible_use: >
+  These materials are for synthetic-data research, methods demonstration,
+  conceptual modeling, symbolic-process analysis, institutional learning, and
+  reproducible workflows. They are not intended for diagnosis, therapy,
+  psychological assessment, crisis assessment, risk prediction, clinical
+  decision-making, treatment recommendation, employment screening, workplace
+  surveillance, individual performance management, or individual evaluation.
+keywords:
+  - analytical psychology
+  - Jungian psychology
+  - trauma
+  - dissociation
+  - fragmented psyche
+  - symbolic capacity
+  - ego integration
+  - bodily regulation
+  - memory continuity
+  - nightmare intrusion
+  - symbolic recovery
+  - developmental trauma
+  - complexes
+  - trauma theory
+  - psychotraumatology
+  - synthetic data
+  - dynamic networks
+  - reproducible workflow
+languages:
+  - Python
+  - R
+  - SQL
+  - Julia
+  - C
+  - C++
+  - Fortran
+  - Go
+  - Rust
