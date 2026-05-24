@@ -1,0 +1,9 @@
+case_id,tradition_type,time,symbolic_depth,meaning_coherence,clinical_utility,cultural_interpretive_power,revision_capacity,doctrinal_rigidity,symbolic_loss,projection_intensity,existential_dislocation,institutional_mistrust
+1,depth_oriented,1,0.82,0.74,0.58,0.77,0.69,0.21,0.62,0.56,0.71,0.49
+2,integrative,1,0.61,0.68,0.73,0.52,0.76,0.18,0.57,0.43,0.64,0.51
+3,symptom_oriented,1,0.24,0.32,0.84,0.18,0.47,0.26,0.66,0.59,0.62,0.55
+4,cultural_interpretive,1,0.70,0.63,0.41,0.83,0.64,0.29,0.72,0.68,0.76,0.63
+5,depth_oriented,2,0.88,0.79,0.61,0.81,0.74,0.19,0.69,0.61,0.78,0.57
+6,integrative,2,0.67,0.72,0.78,0.59,0.81,0.16,0.63,0.48,0.69,0.58
+7,symptom_oriented,2,0.28,0.35,0.87,0.22,0.50,0.23,0.71,0.63,0.67,0.61
+8,cultural_interpretive,2,0.76,0.69,0.45,0.88,0.70,0.25,0.78,0.72,0.82,0.68

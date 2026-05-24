@@ -1,39 +1,42 @@
--- Article-level synthetic analytical psychology schema.
--- Educational only. Not clinical, diagnostic, or therapeutic.
+-- ============================================================
+-- Why Analytical Psychology Still Matters
+-- SQL schema for synthetic conceptual modeling
+-- ============================================================
 
-CREATE TABLE IF NOT EXISTS symbolic_observations (
-    observation_id INTEGER PRIMARY KEY,
-    person_id TEXT NOT NULL,
-    period INTEGER NOT NULL,
-    cultural_mediation REAL,
-    psyche_score REAL,
-    symbolic_access REAL,
-    ego_differentiation REAL,
-    affective_containment REAL,
-    relational_depth REAL,
-    transformative_processing REAL,
-    fragmentation_pressure REAL,
-    high_psychic_integration INTEGER
+CREATE TABLE IF NOT EXISTS symbolic_relevance_cases (
+    case_id INTEGER PRIMARY KEY,
+    tradition_type TEXT NOT NULL,
+    time_period INTEGER NOT NULL,
+    symbolic_depth REAL NOT NULL,
+    meaning_coherence REAL NOT NULL,
+    clinical_utility REAL NOT NULL,
+    cultural_interpretive_power REAL NOT NULL,
+    revision_capacity REAL NOT NULL,
+    doctrinal_rigidity REAL NOT NULL,
+    symbolic_loss REAL NOT NULL,
+    projection_intensity REAL NOT NULL,
+    existential_dislocation REAL NOT NULL,
+    institutional_mistrust REAL NOT NULL,
+    responsible_use_note TEXT DEFAULT 'Synthetic educational data only; not for diagnosis, assessment, screening, surveillance, or individual evaluation.'
 );
 
-CREATE TABLE IF NOT EXISTS dream_symbol_codes (
-    code_id INTEGER PRIMARY KEY,
-    person_id TEXT NOT NULL,
-    period INTEGER NOT NULL,
-    symbol_label TEXT,
-    affective_charge REAL,
-    recurrence_count INTEGER,
-    interpretive_openness REAL
-);
-
-CREATE INDEX IF NOT EXISTS idx_symbolic_obs_person
-ON symbolic_observations(person_id);
-
-CREATE INDEX IF NOT EXISTS idx_symbolic_obs_period
-ON symbolic_observations(period);
-
-CREATE INDEX IF NOT EXISTS idx_dream_codes_person
-ON dream_symbol_codes(person_id);
-
-CREATE INDEX IF NOT EXISTS idx_dream_codes_symbol
-ON dream_symbol_codes(symbol_label);
+CREATE VIEW IF NOT EXISTS symbolic_relevance_scores AS
+SELECT
+    case_id,
+    tradition_type,
+    time_period,
+    (
+        0.62 * symbolic_depth +
+        0.58 * meaning_coherence +
+        0.54 * clinical_utility +
+        0.48 * cultural_interpretive_power +
+        0.60 * revision_capacity -
+        0.70 * doctrinal_rigidity
+    ) AS contemporary_relevance,
+    (
+        0.56 * symbolic_loss +
+        0.52 * projection_intensity +
+        0.64 * existential_dislocation +
+        0.46 * institutional_mistrust
+    ) AS depth_psychological_need
+FROM symbolic_relevance_cases;

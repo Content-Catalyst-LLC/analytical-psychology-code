@@ -1,0 +1,44 @@
+title: "Why Analytical Psychology Still Matters"
+slug: "why-analytical-psychology-still-matters"
+series: "Analytical Psychology, Symbolism & the Depth Mind"
+series_url: "/analytical-psychology-symbolism-depth-mind/"
+repository: "https://github.com/Content-Catalyst-LLC/analytical-psychology-code/tree/main/articles/why-analytical-psychology-still-matters"
+status: "companion scaffold"
+created_for: "WordPress article companion repository"
+description: >
+  Synthetic-data and conceptual-modeling scaffold for the article
+  "Why Analytical Psychology Still Matters." The materials demonstrate
+  how symbolic depth, meaning coherence, clinical utility, cultural
+  interpretive power, revision capacity, doctrinal rigidity, symbolic loss,
+  projection intensity, existential dislocation, and institutional mistrust
+  can be modeled for educational and research-methods purposes.
+responsible_use: >
+  These materials are for synthetic-data research, methods demonstration,
+  conceptual modeling, institutional learning, and reproducible workflows.
+  They are not intended for diagnosis, therapy, psychological assessment,
+  clinical decision-making, employment screening, workplace surveillance,
+  individual performance management, or individual evaluation.
+keywords:
+  - analytical psychology
+  - Jungian psychology
+  - symbolic depth
+  - meaning coherence
+  - dream life
+  - shadow
+  - projection
+  - individuation
+  - cultural interpretation
+  - revision capacity
+  - synthetic data
+  - conceptual modeling
+  - reproducible workflow
+languages:
+  - Python
+  - R
+  - SQL
+  - Julia
+  - C
+  - C++
+  - Fortran
+  - Go
+  - Rust
