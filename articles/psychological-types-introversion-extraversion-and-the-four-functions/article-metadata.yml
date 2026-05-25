@@ -1,0 +1,55 @@
+title: "Psychological Types: Introversion, Extraversion, and the Four Functions"
+slug: "psychological-types-introversion-extraversion-and-the-four-functions"
+series: "Analytical Psychology, Symbolism & the Depth Mind"
+series_url: "/analytical-psychology-symbolism-depth-mind/"
+repository: "https://github.com/Content-Catalyst-LLC/analytical-psychology-code/tree/main/articles/psychological-types-introversion-extraversion-and-the-four-functions"
+status: "companion scaffold"
+created_for: "WordPress article companion repository"
+description: >
+  Synthetic-data and conceptual-modeling scaffold for the article
+  "Psychological Types: Introversion, Extraversion, and the Four Functions."
+  The materials demonstrate how introversion, extraversion, thinking, feeling,
+  sensation, intuition, dominant-function strength, inferior-function access,
+  function variance, unconscious pressure, compensation strain, reflective
+  capacity, symbolic relation, and developmental integration can be modeled
+  for symbolic-process research methods.
+responsible_use: >
+  These materials are for synthetic-data research, methods demonstration,
+  conceptual modeling, symbolic-process analysis, institutional learning, and
+  reproducible workflows. They are not intended for diagnosis, therapy,
+  psychological assessment, personality assessment, typological labeling,
+  clinical decision-making, hiring, employment screening, workplace surveillance,
+  individual performance management, or individual evaluation.
+keywords:
+  - analytical psychology
+  - Jungian psychology
+  - psychological types
+  - introversion
+  - extraversion
+  - thinking
+  - feeling
+  - sensation
+  - intuition
+  - rational functions
+  - irrational functions
+  - dominant function
+  - inferior function
+  - psychic differentiation
+  - one-sidedness
+  - unconscious compensation
+  - typology
+  - symbolic relation
+  - developmental integration
+  - synthetic data
+  - dynamic networks
+  - reproducible workflow
+languages:
+  - Python
+  - R
+  - SQL
+  - Julia
+  - C
+  - C++
+  - Fortran
+  - Go
+  - Rust

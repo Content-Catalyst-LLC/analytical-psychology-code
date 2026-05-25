@@ -1,0 +1,18 @@
+construct,cluster,notes
+dominant_function,typological_structure,Most differentiated function organizing conscious orientation in the synthetic model
+inferior_function,typological_structure,Least differentiated function and primary site of compensatory pressure in the synthetic model
+dominant_attitude,attitude,Introverted or extraverted orientation in the synthetic model
+thinking,judging_function,Conceptual discrimination, logical relation, classification, and explanatory order
+feeling,judging_function,Value judgment, worth, relational significance, harmony, and evaluative discrimination
+sensation,perceiving_function,Concrete fact, embodiment, present givenness, sensory detail, and actuality
+intuition,perceiving_function,Possibility, latent pattern, symbolic implication, future direction, and emergence
+attitude_score,attitude,Stylized continuum where negative values represent introversion and positive values represent extraversion
+dominant_strength,function_differentiation,Highest function value in the synthetic function vector
+inferior_strength,function_differentiation,Lowest function value in the synthetic function vector
+function_variance,one_sidedness,Variance among the four functions as a stylized measure of imbalance
+unconscious_pressure,developmental_pressure,Stylized pressure from neglected or unconscious psychic material
+compensation_strain,developmental_pressure,Stylized strain produced by dominant-inferior gap, function variance, and unconscious pressure
+reflective_capacity,integration_capacity,Capacity to hold projection, function conflict, ambiguity, and symbolic material
+symbolic_relation,symbolic_capacity,Capacity to relate to dream, image, myth, inferior-function material, and symbolic meaning
+conscious_coherence,outcome,Stylized coherence produced by differentiated function use and attitude organization
+developmental_integration,outcome,Stylized integration of function access, symbolic relation, reflection, and reduced one-sidedness
