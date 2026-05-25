@@ -1,0 +1,50 @@
+title: "What Is Analytical Psychology?"
+slug: "what-is-analytical-psychology"
+series: "Analytical Psychology, Symbolism & the Depth Mind"
+series_url: "/analytical-psychology-symbolism-depth-mind/"
+repository: "https://github.com/Content-Catalyst-LLC/analytical-psychology-code/tree/main/articles/what-is-analytical-psychology"
+status: "companion scaffold"
+created_for: "WordPress article companion repository"
+description: >
+  Synthetic-data and conceptual-modeling scaffold for the article "What Is
+  Analytical Psychology?" The materials demonstrate symbolic-corpus workflows,
+  motif dictionaries, symbolic co-occurrence networks, semantic clustering,
+  compensation logic, concept mapping, and responsible-use safeguards for
+  studying analytical psychology as a symbolic, clinical, developmental, and
+  interpretive tradition.
+responsible_use: >
+  These materials are for synthetic-data research, methods demonstration,
+  symbolic-process analysis, institutional learning, and reproducible workflows.
+  They are not intended for diagnosis, therapy, psychological assessment,
+  clinical decision-making, private dream interpretation, religious reductionism,
+  employment screening, workplace surveillance, individual performance
+  management, or individual evaluation.
+keywords:
+  - analytical psychology
+  - Jungian psychology
+  - depth psychology
+  - symbolism
+  - dream interpretation
+  - myth
+  - complexes
+  - archetypes
+  - collective unconscious
+  - persona
+  - shadow
+  - Self
+  - individuation
+  - active imagination
+  - symbolic networks
+  - semantic clustering
+  - synthetic data
+  - reproducible workflow
+languages:
+  - Python
+  - R
+  - SQL
+  - Julia
+  - C
+  - C++
+  - Fortran
+  - Go
+  - Rust

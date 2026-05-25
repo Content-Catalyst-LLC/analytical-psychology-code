@@ -1,39 +1,73 @@
--- Article-level synthetic analytical psychology schema.
--- Educational only. Not clinical, diagnostic, or therapeutic.
+-- ============================================================
+-- What Is Analytical Psychology?
+-- SQL schema for synthetic symbolic-corpus analysis
+-- ============================================================
 
-CREATE TABLE IF NOT EXISTS symbolic_observations (
-    observation_id INTEGER PRIMARY KEY,
-    person_id TEXT NOT NULL,
-    period INTEGER NOT NULL,
-    cultural_mediation REAL,
-    psyche_score REAL,
-    symbolic_access REAL,
-    ego_differentiation REAL,
-    affective_containment REAL,
-    relational_depth REAL,
-    transformative_processing REAL,
-    fragmentation_pressure REAL,
-    high_psychic_integration INTEGER
+CREATE TABLE IF NOT EXISTS symbolic_documents (
+    document_id TEXT PRIMARY KEY,
+    source_type TEXT NOT NULL,
+    phase TEXT NOT NULL,
+    text TEXT NOT NULL,
+    interpretive_note TEXT,
+    responsible_use_note TEXT DEFAULT 'Synthetic educational data only; not for diagnosis, therapy, private dream interpretation, employment screening, surveillance, or individual evaluation.'
 );
 
-CREATE TABLE IF NOT EXISTS dream_symbol_codes (
-    code_id INTEGER PRIMARY KEY,
-    person_id TEXT NOT NULL,
-    period INTEGER NOT NULL,
-    symbol_label TEXT,
-    affective_charge REAL,
-    recurrence_count INTEGER,
-    interpretive_openness REAL
+CREATE TABLE IF NOT EXISTS symbol_dictionary (
+    symbol TEXT PRIMARY KEY,
+    cluster TEXT NOT NULL,
+    description TEXT NOT NULL,
+    interpretive_caution TEXT NOT NULL
 );
 
-CREATE INDEX IF NOT EXISTS idx_symbolic_obs_person
-ON symbolic_observations(person_id);
+CREATE TABLE IF NOT EXISTS analytical_psychology_concepts (
+    concept TEXT PRIMARY KEY,
+    domain TEXT NOT NULL,
+    definition TEXT NOT NULL,
+    responsible_use_note TEXT NOT NULL
+);
 
-CREATE INDEX IF NOT EXISTS idx_symbolic_obs_period
-ON symbolic_observations(period);
+CREATE TABLE IF NOT EXISTS symbol_document_membership (
+    document_id TEXT NOT NULL,
+    symbol TEXT NOT NULL,
+    count INTEGER DEFAULT 1,
+    FOREIGN KEY (document_id) REFERENCES symbolic_documents(document_id),
+    FOREIGN KEY (symbol) REFERENCES symbol_dictionary(symbol)
+);
 
-CREATE INDEX IF NOT EXISTS idx_dream_codes_person
-ON dream_symbol_codes(person_id);
+CREATE TABLE IF NOT EXISTS symbol_cooccurrence_edges (
+    source TEXT NOT NULL,
+    target TEXT NOT NULL,
+    weight INTEGER NOT NULL,
+    FOREIGN KEY (source) REFERENCES symbol_dictionary(symbol),
+    FOREIGN KEY (target) REFERENCES symbol_dictionary(symbol)
+);
 
-CREATE INDEX IF NOT EXISTS idx_dream_codes_symbol
-ON dream_symbol_codes(symbol_label);
+CREATE VIEW IF NOT EXISTS symbol_cluster_counts AS
+SELECT
+    sd.cluster,
+    COUNT(DISTINCT sdm.symbol) AS unique_symbols,
+    SUM(sdm.count) AS total_symbol_mentions
+FROM symbol_document_membership sdm
+JOIN symbol_dictionary sd
+    ON sdm.symbol = sd.symbol
+GROUP BY sd.cluster;
+
+CREATE VIEW IF NOT EXISTS source_symbol_summary AS
+SELECT
+    d.source_type,
+    sd.cluster,
+    sdm.symbol,
+    SUM(sdm.count) AS total_mentions
+FROM symbol_document_membership sdm
+JOIN symbolic_documents d
+    ON sdm.document_id = d.document_id
+JOIN symbol_dictionary sd
+    ON sdm.symbol = sd.symbol
+GROUP BY d.source_type, sd.cluster, sdm.symbol;
+
+CREATE VIEW IF NOT EXISTS concept_domain_counts AS
+SELECT
+    domain,
+    COUNT(*) AS concept_count
+FROM analytical_psychology_concepts
+GROUP BY domain;
