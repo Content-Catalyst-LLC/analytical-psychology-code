@@ -1,0 +1,53 @@
+title: "Individuation and the Development of the Depth Self"
+slug: "individuation-and-the-development-of-the-depth-self"
+series: "Analytical Psychology, Symbolism & the Depth Mind"
+series_url: "/analytical-psychology-symbolism-depth-mind/"
+repository: "https://github.com/Content-Catalyst-LLC/analytical-psychology-code/tree/main/articles/individuation-and-the-development-of-the-depth-self"
+status: "companion scaffold"
+created_for: "WordPress article companion repository"
+description: >
+  Synthetic-data and conceptual-modeling scaffold for the article
+  "Individuation and the Development of the Depth Self." The materials
+  demonstrate how ego coherence, persona identification, shadow acknowledgment,
+  complex activation, symbolic relation, reflective capacity, body awareness,
+  ethical accountability, relational life, one-sidedness, compensation pressure,
+  depth-self integration, and individuation potential can be modeled for
+  symbolic-process research methods.
+responsible_use: >
+  These materials are for synthetic-data research, methods demonstration,
+  conceptual modeling, symbolic-process analysis, institutional learning, and
+  reproducible workflows. They are not intended for diagnosis, therapy,
+  psychological assessment, clinical decision-making, life prediction, employment
+  screening, workplace surveillance, individual performance management, or
+  individual evaluation.
+keywords:
+  - analytical psychology
+  - Jungian psychology
+  - individuation
+  - depth self
+  - self
+  - ego
+  - persona
+  - shadow
+  - complexes
+  - symbolic relation
+  - one-sidedness
+  - compensation
+  - active imagination
+  - dream function
+  - ethical accountability
+  - body awareness
+  - reflective capacity
+  - synthetic data
+  - dynamic networks
+  - reproducible workflow
+languages:
+  - Python
+  - R
+  - SQL
+  - Julia
+  - C
+  - C++
+  - Fortran
+  - Go
+  - Rust
