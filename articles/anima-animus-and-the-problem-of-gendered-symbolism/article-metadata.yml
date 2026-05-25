@@ -1,0 +1,46 @@
+title: "Anima, Animus, and the Problem of Gendered Symbolism"
+slug: "anima-animus-and-the-problem-of-gendered-symbolism"
+series: "Analytical Psychology, Symbolism & the Depth Mind"
+series_url: "/analytical-psychology-symbolism-depth-mind/"
+repository: "https://github.com/Content-Catalyst-LLC/analytical-psychology-code/tree/main/articles/anima-animus-and-the-problem-of-gendered-symbolism"
+status: "companion scaffold"
+created_for: "WordPress article companion repository"
+description: >
+  Synthetic-data and conceptual-modeling scaffold for a revised Jungian treatment
+  of anima, animus, symbolic otherness, projection, gender-code rigidity,
+  reflective mediation, and symbolic integration.
+responsible_use: >
+  Synthetic-data research and reproducible conceptual modeling only. Not for
+  diagnosis, therapy, clinical decision-making, treatment recommendation,
+  mental-health evaluation, gender assessment, sexuality assessment, employment
+  screening, workplace surveillance, individual performance management, or
+  individual evaluation.
+keywords:
+  - analytical psychology
+  - Jungian psychology
+  - anima
+  - animus
+  - gendered symbolism
+  - symbolic otherness
+  - projection
+  - relational imagination
+  - gender essentialism
+  - queer critique
+  - nonbinary critique
+  - reflective mediation
+  - symbolic integration
+  - persona
+  - shadow
+  - individuation
+  - network modeling
+  - synthetic data
+languages:
+  - Python
+  - R
+  - SQL
+  - Julia
+  - C
+  - C++
+  - Fortran
+  - Go
+  - Rust

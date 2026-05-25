@@ -1,0 +1,21 @@
+source,target,weight,notes
+relational_receptivity,symbolic_other_figure,0.62,Relational capacity may be externalized into a symbolic other
+judgment_authority,symbolic_other_figure,0.66,Authority or judgment may be projected into a figure
+erotic_imagination,symbolic_other_figure,0.72,Erotic imagination can intensify symbolic personification
+vulnerability,symbolic_other_figure,0.58,Vulnerability may appear as a projected other
+voice_and_assertion,symbolic_other_figure,0.54,Disowned voice or assertion may be personified
+care_and_tenderness,symbolic_other_figure,0.50,Care or tenderness may appear through projected figures
+cultural_gender_script,symbolic_other_figure,0.46,Gender coding shapes the appearance of symbolic figures
+cultural_gender_script,conscious_identity,0.28,Gender scripts influence conscious identity
+symbolic_other_figure,actual_other_person,0.64,Projected figure may overlay the actual person
+actual_other_person,symbolic_other_figure,0.36,Relational cues can activate symbolic projection
+symbolic_other_figure,conscious_identity,0.30,Symbolic otherness can affect identity
+reflective_mediation,symbolic_other_figure,-0.52,Reflection reduces undifferentiated projection
+reflective_mediation,actual_other_person,0.34,Reflection helps restore the actual other
+reflective_mediation,conscious_identity,0.42,Reflection strengthens conscious mediation
+conscious_identity,relational_receptivity,0.24,Identity may integrate relational receptivity
+conscious_identity,judgment_authority,0.22,Identity may integrate authority and judgment
+conscious_identity,erotic_imagination,0.20,Identity may integrate erotic imagination
+conscious_identity,vulnerability,0.18,Identity may integrate vulnerability
+conscious_identity,voice_and_assertion,0.20,Identity may integrate voice and assertion
+conscious_identity,care_and_tenderness,0.20,Identity may integrate care and tenderness
