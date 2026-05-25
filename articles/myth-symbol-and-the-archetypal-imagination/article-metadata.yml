@@ -1,0 +1,52 @@
+title: "Myth, Symbol, and the Archetypal Imagination"
+slug: "myth-symbol-and-the-archetypal-imagination"
+series: "Analytical Psychology, Symbolism & the Depth Mind"
+series_url: "/analytical-psychology-symbolism-depth-mind/"
+repository: "https://github.com/Content-Catalyst-LLC/analytical-psychology-code/tree/main/articles/myth-symbol-and-the-archetypal-imagination"
+status: "companion scaffold"
+created_for: "WordPress article companion repository"
+description: >
+  Synthetic-data and public-domain-corpus scaffold for the article "Myth,
+  Symbol, and the Archetypal Imagination." The materials demonstrate how
+  symbolic recurrence, historical context, motif co-occurrence, archetypal
+  neighborhoods, source-type differences, political myth, and context-dependence
+  can be modeled for symbolic-process research methods.
+responsible_use: >
+  These materials are for synthetic-data research, public-domain corpus
+  demonstration, conceptual modeling, symbolic-process analysis, institutional
+  learning, and reproducible workflows. They are not intended to prove archetypes,
+  appropriate sacred traditions, interpret private dreams, classify religions,
+  rank cultures, evaluate communities, automate myth interpretation, or replace
+  historical, anthropological, theological, literary, political, or clinical
+  expertise.
+keywords:
+  - analytical psychology
+  - Jungian psychology
+  - myth
+  - symbol
+  - archetypal imagination
+  - archetypes
+  - collective unconscious
+  - symbolic recurrence
+  - historical difference
+  - ritual
+  - religion
+  - literature
+  - art
+  - cultural memory
+  - political myth
+  - motif networks
+  - symbolic corpus
+  - context dependence
+  - synthetic data
+  - reproducible workflow
+languages:
+  - Python
+  - R
+  - SQL
+  - Julia
+  - C
+  - C++
+  - Fortran
+  - Go
+  - Rust
