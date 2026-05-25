@@ -1,0 +1,45 @@
+title: "What Is an Archetype? Pattern, Image, and Psychic Structure"
+slug: "what-is-an-archetype-pattern-image-and-psychic-structure"
+series: "Analytical Psychology, Symbolism & the Depth Mind"
+series_url: "/analytical-psychology-symbolism-depth-mind/"
+repository: "https://github.com/Content-Catalyst-LLC/analytical-psychology-code/tree/main/articles/what-is-an-archetype-pattern-image-and-psychic-structure"
+status: "companion scaffold"
+description: >
+  Synthetic-data and conceptual-modeling scaffold for motif recurrence,
+  symbolic-cluster detection, semantic co-occurrence networks, archetypal
+  motif analysis, latent-pattern reasoning, and responsible interpretive
+  guardrails.
+responsible_use: >
+  These materials are for synthetic-data research, methods demonstration,
+  conceptual modeling, symbolic-process analysis, corpus exploration,
+  institutional learning, and reproducible workflows. They are not intended
+  for diagnosis, therapy, psychological assessment, private dream
+  interpretation, religious reductionism, cultural extraction, employment
+  screening, workplace surveillance, individual performance management, or
+  individual evaluation.
+languages:
+  - Python
+  - R
+  - SQL
+  - Julia
+  - C
+  - C++
+  - Fortran
+  - Go
+  - Rust
+keywords:
+  - analytical psychology
+  - Jungian psychology
+  - archetype
+  - archetypal image
+  - symbol
+  - symbolic recurrence
+  - motif analysis
+  - semantic networks
+  - collective unconscious
+  - myth
+  - dream interpretation
+  - religion
+  - corpus analysis
+  - symbolic structure
+  - responsible interpretation
