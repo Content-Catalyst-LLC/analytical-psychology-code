@@ -1,0 +1,52 @@
+title: "Analytical Psychology and Personality Theory"
+slug: "analytical-psychology-and-personality-theory"
+series: "Analytical Psychology, Symbolism & the Depth Mind"
+series_url: "/analytical-psychology-symbolism-depth-mind/"
+repository: "https://github.com/Content-Catalyst-LLC/analytical-psychology-code/tree/main/articles/analytical-psychology-and-personality-theory"
+status: "companion scaffold"
+created_for: "WordPress article companion repository"
+description: >
+  Synthetic-data and conceptual-modeling scaffold for the article "Analytical
+  Psychology and Personality Theory." The materials demonstrate how conscious
+  orientation, persona identification, shadow acknowledgment, complex activation,
+  unconscious compensation, typological flexibility, symbolic relation, reflective
+  capacity, developmental integration, one-sidedness, and personality-state
+  dynamics can be modeled for symbolic-process research methods.
+responsible_use: >
+  These materials are for synthetic-data research, methods demonstration,
+  conceptual modeling, symbolic-process analysis, institutional learning, and
+  reproducible workflows. They are not intended for diagnosis, therapy,
+  psychological assessment, personality assessment, clinical decision-making,
+  hiring, employment screening, workplace surveillance, individual performance
+  management, or individual evaluation.
+keywords:
+  - analytical psychology
+  - Jungian psychology
+  - personality theory
+  - psychological types
+  - typology
+  - conscious orientation
+  - persona
+  - shadow
+  - complexes
+  - unconscious compensation
+  - symbolic relation
+  - developmental integration
+  - one-sidedness
+  - personality science
+  - trait theory
+  - psychodynamic personality theory
+  - narrative identity
+  - synthetic data
+  - dynamic networks
+  - reproducible workflow
+languages:
+  - Python
+  - R
+  - SQL
+  - Julia
+  - C
+  - C++
+  - Fortran
+  - Go
+  - Rust
