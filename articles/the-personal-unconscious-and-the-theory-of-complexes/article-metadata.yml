@@ -1,0 +1,51 @@
+title: "The Personal Unconscious and the Theory of Complexes"
+slug: "the-personal-unconscious-and-the-theory-of-complexes"
+series: "Analytical Psychology, Symbolism & the Depth Mind"
+series_url: "/analytical-psychology-symbolism-depth-mind/"
+repository: "https://github.com/Content-Catalyst-LLC/analytical-psychology-code/tree/main/articles/the-personal-unconscious-and-the-theory-of-complexes"
+status: "companion scaffold"
+created_for: "WordPress article companion repository"
+description: >
+  Synthetic-data and conceptual-modeling scaffold for the article "The Personal
+  Unconscious and the Theory of Complexes." The materials demonstrate how
+  personal-unconscious contents, complex activation, affective charge,
+  associative clustering, trigger intensity, relational threat, shame cues,
+  guilt cues, evaluation pressure, regulation, contextual support, projection,
+  transference, and affect-weighted network dynamics can be modeled for
+  symbolic-process and depth-psychology research methods.
+responsible_use: >
+  These materials are for synthetic-data research, methods demonstration,
+  conceptual modeling, symbolic-process analysis, institutional learning, and
+  reproducible workflows. They are not intended for diagnosis, therapy,
+  psychological assessment, clinical decision-making, treatment recommendation,
+  mental-health evaluation, employment screening, workplace surveillance,
+  individual performance management, or individual evaluation.
+keywords:
+  - analytical psychology
+  - Jungian psychology
+  - personal unconscious
+  - complexes
+  - theory of complexes
+  - complex activation
+  - affect
+  - association
+  - associative networks
+  - projection
+  - transference
+  - symbolic repetition
+  - personal history
+  - affective memory
+  - schema
+  - trigger response
+  - synthetic data
+  - reproducible workflow
+languages:
+  - Python
+  - R
+  - SQL
+  - Julia
+  - C
+  - C++
+  - Fortran
+  - Go
+  - Rust

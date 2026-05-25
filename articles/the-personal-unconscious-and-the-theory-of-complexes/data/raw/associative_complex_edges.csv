@@ -1,0 +1,39 @@
+source,target,weight,notes
+authority_cue,authority_expectation,0.82,Authority cue activates expectation of judgment
+authority_cue,humiliation_memory,0.70,Authority cue activates humiliation memory
+criticism_cue,shame,0.88,Criticism cue activates shame
+criticism_cue,self_doubt,0.72,Criticism cue activates self doubt
+relational_distance,abandonment_memory,0.84,Distance cue activates abandonment memory
+relational_distance,fear,0.76,Distance cue activates fear
+humiliation_memory,shame,0.92,Humiliation memory reactivates shame
+humiliation_memory,anger,0.58,Humiliation memory may convert into anger
+abandonment_memory,fear,0.86,Abandonment memory reactivates fear
+abandonment_memory,longing,0.74,Abandonment memory reactivates longing
+failure_memory,self_doubt,0.78,Failure memory intensifies self doubt
+failure_memory,shame,0.62,Failure memory reactivates shame
+shame,self_doubt,0.82,Shame intensifies self doubt
+shame,withdrawal,0.74,Shame supports withdrawal
+shame,collapse_response,0.66,Shame supports collapse
+fear,appeasement,0.66,Fear supports appeasement
+fear,pursuit,0.58,Fear may support anxious pursuit
+anger,defensiveness,0.78,Anger supports defensive reaction
+guilt,appeasement,0.62,Guilt supports appeasement and over-responsibility
+longing,pursuit,0.72,Longing supports pursuit
+authority_expectation,bodily_tension,0.70,Authority expectation activates bodily tension
+authority_expectation,defensiveness,0.52,Authority expectation supports defensive readiness
+rejection_expectation,relational_distance,0.56,Rejection expectation heightens distance sensitivity
+self_doubt,withdrawal,0.68,Self doubt supports withdrawal
+bodily_tension,anger,0.62,Bodily tension may support anger
+collapse_response,withdrawal,0.70,Collapse supports withdrawal
+withdrawal,self_doubt,0.42,Withdrawal may intensify self doubt
+defensiveness,humiliation_memory,0.46,Defensive enactment may revive humiliation memory
+pursuit,rejection_expectation,0.44,Pursuit may intensify rejection expectation
+reflective_awareness,shame,-0.42,Reflection reduces shame activation
+reflective_awareness,anger,-0.36,Reflection reduces anger activation
+reflective_awareness,defensiveness,-0.34,Reflection reduces defensive action
+contextual_support,fear,-0.38,Support reduces fear
+contextual_support,abandonment_memory,-0.32,Support reduces abandonment activation
+contextual_support,withdrawal,-0.28,Support reduces withdrawal
+shame,symbolic_image,0.52,Shame may appear as exposure imagery
+fear,symbolic_image,0.46,Fear may appear as pursuit flood or collapse imagery
+abandonment_memory,symbolic_image,0.50,Abandonment may appear as empty house door or lost child

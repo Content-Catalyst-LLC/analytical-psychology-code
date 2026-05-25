@@ -1,0 +1,24 @@
+node,cluster,affect_weight,notes
+authority_cue,trigger,0.92,External cue involving hierarchy evaluation institution or command
+criticism_cue,trigger,0.90,External cue involving criticism correction judgment or evaluation
+relational_distance,trigger,0.86,External cue involving distance silence delay ambiguity or nonresponse
+humiliation_memory,memory,1.00,Affective memory of exposure ridicule degradation or public failure
+abandonment_memory,memory,0.96,Affective memory of absence loss nonresponse or emotional disappearance
+failure_memory,memory,0.88,Affective memory of inadequacy comparison failure or exclusion
+shame,affect,1.00,Affective exposure humiliation or self-condemnation
+fear,affect,0.88,Affective threat vigilance or anticipatory danger
+anger,affect,0.78,Affective protest boundary force resentment or rage
+longing,affect,0.80,Affective attachment desire pursuit or repair seeking
+guilt,affect,0.76,Affective responsibility accusation burden or self-punishment
+self_doubt,cognition,0.82,Interpretive collapse around competence value or adequacy
+authority_expectation,expectation,0.86,Expectation that authority will judge shame or dominate
+rejection_expectation,expectation,0.84,Expectation that distance means rejection or abandonment
+bodily_tension,body,0.74,Somatic readiness anxiety tightness vigilance or muscular bracing
+collapse_response,body,0.76,Somatic collapse numbness exhaustion or shutdown
+withdrawal,response,0.72,Defensive retreat silence avoidance or concealment
+defensiveness,response,0.74,Counterattack explanation justification guardedness or rebellion
+appeasement,response,0.68,Compliance pleasing over-responsibility or self-erasure
+pursuit,response,0.70,Anxious pursuit reassurance seeking testing or clinging
+reflective_awareness,regulation,0.30,Capacity to notice the complex before full enactment
+contextual_support,regulation,0.28,Supportive context stable relationship safety or trusted witness
+symbolic_image,symbolic_output,0.62,Dream fantasy motif or image that gives form to recurrence
