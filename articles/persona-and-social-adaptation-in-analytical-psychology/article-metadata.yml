@@ -1,0 +1,52 @@
+title: "Persona and Social Adaptation in Analytical Psychology"
+slug: "persona-and-social-adaptation-in-analytical-psychology"
+series: "Analytical Psychology, Symbolism & the Depth Mind"
+series_url: "/analytical-psychology-symbolism-depth-mind/"
+repository: "https://github.com/Content-Catalyst-LLC/analytical-psychology-code/tree/main/articles/persona-and-social-adaptation-in-analytical-psychology"
+status: "companion scaffold"
+created_for: "WordPress article companion repository"
+description: >
+  Synthetic-data and conceptual-modeling scaffold for the article "Persona and
+  Social Adaptation in Analytical Psychology." The materials demonstrate how
+  role demand, audience reward, institutional reward, inward complexity,
+  reflective flexibility, persona strength, persona rigidity, shadow pressure,
+  psychic strain, burnout risk, and individuation readiness can be modeled for
+  symbolic-process and social-adaptation research methods.
+responsible_use: >
+  These materials are for synthetic-data research, methods demonstration,
+  conceptual modeling, symbolic-process analysis, institutional learning, and
+  reproducible workflows. They are not intended for diagnosis, therapy,
+  psychological assessment, clinical decision-making, treatment recommendation,
+  mental-health evaluation, employment screening, workplace surveillance,
+  individual performance management, reputation scoring, social scoring, or
+  individual evaluation.
+keywords:
+  - analytical psychology
+  - Jungian psychology
+  - persona
+  - social adaptation
+  - role identity
+  - public recognition
+  - professional identity
+  - persona rigidity
+  - shadow compensation
+  - individuation
+  - identity performance
+  - institutional persona
+  - digital persona
+  - psychic strain
+  - burnout risk
+  - reflective flexibility
+  - symbolic process
+  - synthetic data
+  - reproducible workflow
+languages:
+  - Python
+  - R
+  - SQL
+  - Julia
+  - C
+  - C++
+  - Fortran
+  - Go
+  - Rust

@@ -1,0 +1,40 @@
+source,target,weight,notes
+role_demand,competence,0.50,Role pressure reinforces competence
+role_demand,professionalism,0.54,Role pressure reinforces professional identity
+role_demand,authority,0.38,Role pressure reinforces authority
+audience_reward,charm,0.46,Audience feedback reinforces charm
+audience_reward,moral_reliability,0.42,Audience feedback reinforces public moral identity
+institutional_reward,professionalism,0.50,Institutional reward reinforces professionalism
+institutional_reward,authority,0.48,Institutional reward reinforces authority
+institutional_reward,competence,0.44,Institutional reward reinforces competence
+competence,professionalism,0.62,Competence strengthens professional persona
+professionalism,authority,0.52,Professional role strengthens authority
+charm,audience_reward,0.36,Charm increases audience reward
+authority,institutional_reward,0.34,Authority increases institutional reward
+moral_reliability,audience_reward,0.30,Moral image increases public approval
+usefulness,role_demand,0.28,Usefulness attracts more role demand
+competence,dependency,-0.32,Competence may suppress dependency
+professionalism,grief,-0.28,Professional persona may suppress grief
+authority,fear,-0.24,Authority may suppress fear
+moral_reliability,anger,-0.30,Moral persona may suppress anger
+usefulness,resentment,-0.34,Usefulness may suppress resentment
+professionalism,play,-0.22,Professionalism may suppress play
+moral_reliability,desire,-0.24,Moral reliability may suppress desire
+vulnerability,authentic_reflection,0.54,Vulnerability can deepen reflection
+fear,dependency,0.46,Fear and dependency may be linked
+dependency,anger,0.38,Dependency may activate anger when disowned
+grief,vulnerability,0.56,Grief opens vulnerability
+resentment,anger,0.52,Resentment intensifies anger
+play,desire,0.34,Play and desire are connected shadowed energies
+anger,projection_pressure,0.60,Disowned anger may become projection
+resentment,projection_pressure,0.58,Disowned resentment may become projection
+dependency,emptiness_signal,0.42,Disowned dependency may produce emptiness
+grief,emptiness_signal,0.58,Disowned grief may produce emptiness
+fear,burnout_pressure,0.46,Fear contributes to burnout pressure
+vulnerability,burnout_pressure,0.36,Vulnerability under suppression contributes to burnout
+authentic_reflection,integration_capacity,0.58,Reflection supports integration
+authentic_reflection,projection_pressure,-0.38,Reflection reduces projection
+integration_capacity,burnout_pressure,-0.34,Integration reduces burnout pressure
+integration_capacity,projection_pressure,-0.40,Integration reduces projection
+integration_capacity,emptiness_signal,-0.30,Integration reduces inner emptiness
+integration_capacity,competence,0.18,Integration lets competence remain useful without total identity

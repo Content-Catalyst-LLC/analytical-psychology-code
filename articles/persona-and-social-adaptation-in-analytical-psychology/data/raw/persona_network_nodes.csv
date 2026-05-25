@@ -1,0 +1,23 @@
+node,cluster,activation,notes
+competence,persona,1.00,Socially rewarded competence and role adequacy
+professionalism,persona,0.92,Professional discipline and institutional legibility
+charm,persona,0.78,Social fluency audience appeal and relational ease
+authority,persona,0.84,Role-based command legitimacy and public confidence
+moral_reliability,persona,0.88,Publicly recognized moral consistency and trustworthiness
+usefulness,persona,0.82,Identity organized around being needed or productive
+vulnerability,shadow,0.30,Excluded openness need fragility and exposure
+fear,shadow,0.22,Excluded anxiety uncertainty and threat perception
+dependency,shadow,0.24,Excluded need for support care and attachment
+grief,shadow,0.30,Excluded sadness mourning loss and emotional truth
+anger,shadow,0.38,Excluded boundary force rage resentment or refusal
+resentment,shadow,0.26,Excluded anger under helpfulness or compliance
+play,shadow,0.34,Excluded spontaneity pleasure and non-instrumental life
+desire,shadow,0.32,Excluded appetite ambition longing or erotic vitality
+authentic_reflection,reflection,0.62,Capacity to step back from role identity and reflect
+role_demand,context,0.72,External demand for role performance
+audience_reward,context,0.68,Recognition status approval visibility and platform feedback
+institutional_reward,context,0.70,Promotion legitimacy belonging and institutional approval
+burnout_pressure,response,0.00,Strain response after prolonged persona pressure
+projection_pressure,response,0.00,Projection of excluded material onto others
+emptiness_signal,response,0.00,Inner unreality or symbolic emptiness after overidentification
+integration_capacity,integration,0.20,Capacity to relate persona to inward complexity
