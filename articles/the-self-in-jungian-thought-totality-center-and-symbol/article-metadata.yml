@@ -1,0 +1,51 @@
+title: "The Self in Jungian Thought: Totality, Center, and Symbol"
+slug: "the-self-in-jungian-thought-totality-center-and-symbol"
+series: "Analytical Psychology, Symbolism & the Depth Mind"
+series_url: "/analytical-psychology-symbolism-depth-mind/"
+repository: "https://github.com/Content-Catalyst-LLC/analytical-psychology-code/tree/main/articles/the-self-in-jungian-thought-totality-center-and-symbol"
+status: "companion scaffold"
+created_for: "WordPress article companion repository"
+description: >
+  Synthetic-data and conceptual-modeling scaffold for the article "The Self
+  in Jungian Thought: Totality, Center, and Symbol." The materials demonstrate
+  how ego coherence, unconscious activation, symbolic center strength,
+  relational coordination, shadow pressure, disjunction, inflation risk,
+  totality, differentiation, and Self-relation can be modeled for
+  symbolic-process research methods.
+responsible_use: >
+  These materials are for synthetic-data research, methods demonstration,
+  conceptual modeling, symbolic-process analysis, institutional learning, and
+  reproducible workflows. They are not intended for diagnosis, therapy,
+  psychological assessment, clinical decision-making, treatment recommendation,
+  mental-health evaluation, crisis intervention, employment screening,
+  workplace surveillance, individual performance management, spiritual
+  authority claims, or individual evaluation.
+keywords:
+  - analytical psychology
+  - Jungian psychology
+  - Self
+  - ego
+  - individuation
+  - totality
+  - center
+  - symbol
+  - mandala
+  - quaternity
+  - shadow
+  - ego-Self axis
+  - inflation
+  - symbolic center
+  - psychic integration
+  - network modeling
+  - synthetic data
+  - reproducible workflow
+languages:
+  - Python
+  - R
+  - SQL
+  - Julia
+  - C
+  - C++
+  - Fortran
+  - Go
+  - Rust

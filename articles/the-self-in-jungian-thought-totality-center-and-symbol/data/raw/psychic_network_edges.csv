@@ -1,0 +1,28 @@
+source,target,weight,notes
+ego,thinking,0.55,Ego relation to dominant or developed thinking function
+ego,feeling,0.32,Ego relation to feeling judgment
+ego,sensation,0.38,Ego relation to embodied perception
+ego,intuition,0.40,Ego relation to possibility and pattern
+ego,persona,0.52,Ego adaptation through social role
+ego,relational_life,0.34,Ego relation to interpersonal field
+persona,shadow,-0.24,Persona may exclude shadow contents
+persona,relational_life,0.30,Persona participates in social relation
+shadow,complexes,0.68,Shadow and complexes are affectively linked
+shadow,symbolic_imagery,0.46,Shadow often appears symbolically
+complexes,symbolic_imagery,0.70,Complexes can organize dream and fantasy images
+complexes,body_affect,0.44,Complexes carry bodily affect
+symbolic_imagery,center_symbol,0.76,Self-symbols emerge through symbolic imagery
+body_affect,symbolic_imagery,0.42,Affect feeds symbolic imagery
+body_affect,feeling,0.50,Bodily affect and feeling judgment are linked
+thinking,feeling,0.22,Thinking-feeling relation
+sensation,intuition,0.26,Sensation-intuition relation
+feeling,relational_life,0.58,Feeling mediates relationship
+intuition,symbolic_imagery,0.52,Intuition links to symbolic patterning
+center_symbol,ego,0.34,Self-symbol relativizes and orients ego
+center_symbol,shadow,0.36,Self-symbol holds relation to shadow
+center_symbol,relational_life,0.40,Self-symbol links to ethical relation
+center_symbol,body_affect,0.32,Self-symbol includes embodiment
+center_symbol,thinking,0.28,Self-symbol includes thinking
+center_symbol,feeling,0.36,Self-symbol includes feeling
+center_symbol,sensation,0.30,Self-symbol includes sensation
+center_symbol,intuition,0.34,Self-symbol includes intuition
