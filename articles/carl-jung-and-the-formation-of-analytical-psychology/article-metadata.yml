@@ -1,0 +1,50 @@
+title: "Carl Jung and the Formation of Analytical Psychology"
+slug: "carl-jung-and-the-formation-of-analytical-psychology"
+series: "Analytical Psychology, Symbolism & the Depth Mind"
+series_url: "/analytical-psychology-symbolism-depth-mind/"
+repository: "https://github.com/Content-Catalyst-LLC/analytical-psychology-code/tree/main/articles/carl-jung-and-the-formation-of-analytical-psychology"
+status: "companion scaffold"
+created_for: "WordPress article companion repository"
+description: >
+  Synthetic-data and conceptual-modeling scaffold for the article "Carl Jung
+  and the Formation of Analytical Psychology." The materials demonstrate how
+  Jung's intellectual formation, clinical work, word-association research,
+  complex theory, engagement with Freud, symbolic expansion, comparative
+  inquiry, confrontation with the unconscious, and post-Jungian revision can be
+  modeled as a conceptual network and temporal diffusion problem.
+responsible_use: >
+  These materials are for synthetic-data research, methods demonstration,
+  intellectual-history modeling, conceptual-network analysis, institutional
+  learning, and reproducible workflows. They are not intended for diagnosis,
+  therapy, psychological assessment, clinical decision-making, mental-health
+  evaluation, employment screening, workplace surveillance, individual
+  performance management, or individual evaluation.
+keywords:
+  - analytical psychology
+  - Carl Jung
+  - Jungian psychology
+  - depth psychology
+  - intellectual history
+  - concept networks
+  - symbolic psychology
+  - complexes
+  - word association
+  - Freud
+  - psychoanalysis
+  - archetypes
+  - collective unconscious
+  - individuation
+  - active imagination
+  - post-Jungian theory
+  - synthetic data
+  - reproducible workflow
+languages:
+  - Python
+  - R
+  - SQL
+  - Julia
+  - C
+  - C++
+  - Fortran
+  - Go
+  - Rust

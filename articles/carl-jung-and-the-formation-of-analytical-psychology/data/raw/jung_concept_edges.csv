@@ -1,0 +1,34 @@
+source,target,weight,phase,notes
+association,complex,5,early,Word-association work supports complex theory
+association,affect,4,early,Associative disturbance reveals affective charge
+complex,unconscious,5,early,Complexes show unconscious interference
+complex,affect,5,early,Complexes are affectively charged
+complex,projection,4,middle,Complexes can drive projection
+affect,dream,4,middle,Affect may appear in dream imagery
+ego,persona,4,middle,Ego adapts through social persona
+ego,shadow,5,middle,Ego identity excludes shadow material
+persona,social_adaptation,4,middle,Persona supports social adaptation
+shadow,projection,5,middle,Shadow often appears through projection
+shadow,moral_conflict,3,middle,Shadow carries moral conflict and disowned material
+projection,relationship,5,middle,Projection shapes relational experience
+symbol,dream,5,middle,Dreams communicate through symbols
+symbol,archetype,5,middle,Archetypal patterns appear as symbolic images
+symbol,religion,4,late,Religious images function symbolically
+dream,compensation,5,middle,Dreams may compensate conscious one-sidedness
+dream,symbol,5,middle,Dream is a central symbolic field
+archetype,collective_unconscious,5,middle,Archetype theory supports collective unconscious
+archetype,myth,4,middle,Mythic motifs were central to Jung's archetypal reasoning
+collective_unconscious,symbol,5,middle,Collective unconscious is inferred through symbolic recurrence
+Self,individuation,5,late,Self is central to individuation
+Self,symbol,5,late,Self appears through symbols such as mandala or center
+individuation,shadow,5,late,Shadow integration is part of individuation
+active_imagination,symbol,4,middle,Active imagination works through symbolic dialogue
+religion,symbol,4,late,Religion is psychologically serious as symbolic form
+myth,archetype,5,middle,Myth was interpreted as archetypal expression
+alchemy,transformation,4,late,Alchemy was interpreted as symbolic transformation
+gender_symbolism,anima_animus,5,middle,Critical revision of anima and animus is necessary
+cultural_context,symbol,5,late,Symbols require historical and cultural context
+post_jungian_revision,complex,3,late,Later schools revised complex theory
+post_jungian_revision,archetype,4,late,Later schools revised archetype theory
+post_jungian_revision,gender_symbolism,5,late,Later critique revises gender symbolism
+post_jungian_revision,cultural_context,4,late,Later critique strengthens cultural-historical discipline

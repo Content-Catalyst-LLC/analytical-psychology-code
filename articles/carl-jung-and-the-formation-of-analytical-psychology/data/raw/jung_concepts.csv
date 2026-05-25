@@ -1,0 +1,23 @@
+concept,period,domain,description,interpretive_caution
+association,early,experimental,Word-association and associative disturbance as early evidence of unconscious interference,Do not treat association data as a complete model of the psyche.
+affect,early,clinical,Emotional charge that disrupts conscious control and binds complexes,Do not reduce affect to abstract score or pathologize appropriate emotion.
+complex,early,clinical,Affectively charged cluster of memory image expectation and association,Do not use complex language as diagnosis or moral dismissal.
+unconscious,early,structural,Layered field of psychic processes outside immediate consciousness,Do not treat all unconscious material as the same type.
+ego,middle,structural,Center of conscious identity and reflection,Do not confuse ego with the whole psyche.
+persona,middle,social,Social mask role and adaptive identity,Do not treat all social adaptation as false.
+shadow,middle,moral,Disowned or unintegrated psychic material,Do not reduce social conflict to projection alone.
+projection,middle,relational,Externalization of unresolved psychic material into others,Do not deny that external harm may be real.
+symbol,middle,symbolic,Living image or form mediating unconscious meaning and transformation,Do not treat symbols as universal labels detached from context.
+dream,early,clinical,Dream as symbolic compensatory and prospective psychic production,Do not bypass personal association and context.
+compensation,middle,dynamic,Unconscious balancing of conscious one-sidedness,Do not assume every image is corrective or wise.
+archetype,middle,symbolic,Recurrent structuring pattern inferred from symbolic images,Do not flatten cultural specificity into universal shorthand.
+collective_unconscious,middle,symbolic,Transpersonal layer of recurrent symbolic patterning,Do not treat this as proof of inherited mythic pictures.
+Self,late,developmental,Totality and ordering principle of the psyche,Do not identify the ego with psychic totality.
+individuation,late,developmental,Process of differentiation integration and psychic maturation,Do not romanticize suffering as necessary destiny.
+active_imagination,middle,method,Method of sustained symbolic dialogue with unconscious images,Do not present as universally appropriate or clinically risk-free.
+religion,late,religion,Religious symbols as psychologically serious forms,Do not reduce living faith traditions to psychology alone.
+myth,middle,comparative,Recurring narrative structures of ordeal transformation and meaning,Do not treat motif resemblance as identical meaning.
+alchemy,late,comparative,Historical symbolic material Jung interpreted as transformation imagery,Distinguish historical alchemy from psychological reinterpretation.
+gender_symbolism,middle,critical_revision,Anima animus polarity and inner relational figures requiring contemporary revision,Avoid gender essentialism and binary determinism.
+cultural_context,late,critical_revision,Historical cultural and political context for symbolic interpretation,Do not extract symbols from communities or histories.
+post_jungian_revision,late,critical_revision,Later clinical cultural feminist developmental and archetypal revisions,Do not freeze analytical psychology at Jung's original formulations.

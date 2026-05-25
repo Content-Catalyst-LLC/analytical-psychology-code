@@ -1,39 +1,74 @@
--- Article-level synthetic analytical psychology schema.
--- Educational only. Not clinical, diagnostic, or therapeutic.
+-- ============================================================
+-- Carl Jung and the Formation of Analytical Psychology
+-- SQL schema for synthetic concept-history analysis
+-- ============================================================
 
-CREATE TABLE IF NOT EXISTS symbolic_observations (
-    observation_id INTEGER PRIMARY KEY,
-    person_id TEXT NOT NULL,
-    period INTEGER NOT NULL,
-    cultural_mediation REAL,
-    psyche_score REAL,
-    symbolic_access REAL,
-    ego_differentiation REAL,
-    affective_containment REAL,
-    relational_depth REAL,
-    transformative_processing REAL,
-    fragmentation_pressure REAL,
-    high_psychic_integration INTEGER
+CREATE TABLE IF NOT EXISTS jung_concepts (
+    concept TEXT PRIMARY KEY,
+    period TEXT NOT NULL,
+    domain TEXT NOT NULL,
+    description TEXT NOT NULL,
+    interpretive_caution TEXT NOT NULL
 );
 
-CREATE TABLE IF NOT EXISTS dream_symbol_codes (
-    code_id INTEGER PRIMARY KEY,
-    person_id TEXT NOT NULL,
-    period INTEGER NOT NULL,
-    symbol_label TEXT,
-    affective_charge REAL,
-    recurrence_count INTEGER,
-    interpretive_openness REAL
+CREATE TABLE IF NOT EXISTS jung_concept_edges (
+    source TEXT NOT NULL,
+    target TEXT NOT NULL,
+    weight REAL NOT NULL,
+    phase TEXT NOT NULL,
+    notes TEXT,
+    FOREIGN KEY (source) REFERENCES jung_concepts(concept),
+    FOREIGN KEY (target) REFERENCES jung_concepts(concept)
 );
 
-CREATE INDEX IF NOT EXISTS idx_symbolic_obs_person
-ON symbolic_observations(person_id);
+CREATE TABLE IF NOT EXISTS jung_period_weights (
+    phase TEXT PRIMARY KEY,
+    clinical REAL NOT NULL,
+    experimental REAL NOT NULL,
+    symbolic REAL NOT NULL,
+    developmental REAL NOT NULL,
+    comparative REAL NOT NULL,
+    religion REAL NOT NULL,
+    method REAL NOT NULL,
+    critical_revision REAL NOT NULL
+);
 
-CREATE INDEX IF NOT EXISTS idx_symbolic_obs_period
-ON symbolic_observations(period);
+CREATE TABLE IF NOT EXISTS jung_publication_periods (
+    period TEXT PRIMARY KEY,
+    approx_year_range TEXT NOT NULL,
+    orientation TEXT NOT NULL,
+    representative_materials TEXT NOT NULL,
+    notes TEXT
+);
 
-CREATE INDEX IF NOT EXISTS idx_dream_codes_person
-ON dream_symbol_codes(person_id);
+CREATE VIEW IF NOT EXISTS concept_edge_strength AS
+SELECT
+    source,
+    target,
+    weight,
+    phase,
+    notes,
+    CASE
+        WHEN weight >= 5 THEN 'very strong synthetic relation'
+        WHEN weight = 4 THEN 'strong synthetic relation'
+        WHEN weight = 3 THEN 'moderate synthetic relation'
+        ELSE 'low synthetic relation'
+    END AS relation_strength_label
+FROM jung_concept_edges;
 
-CREATE INDEX IF NOT EXISTS idx_dream_codes_symbol
-ON dream_symbol_codes(symbol_label);
+CREATE VIEW IF NOT EXISTS domain_concept_counts AS
+SELECT
+    domain,
+    period,
+    COUNT(*) AS concept_count
+FROM jung_concepts
+GROUP BY domain, period;
+
+CREATE VIEW IF NOT EXISTS phase_edge_summary AS
+SELECT
+    phase,
+    COUNT(*) AS edge_count,
+    AVG(weight) AS mean_edge_weight,
+    MAX(weight) AS max_edge_weight
+FROM jung_concept_edges
+GROUP BY phase;
