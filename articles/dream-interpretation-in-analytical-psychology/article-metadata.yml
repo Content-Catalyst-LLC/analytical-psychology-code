@@ -1,0 +1,51 @@
+title: "Dream Interpretation in Analytical Psychology"
+slug: "dream-interpretation-in-analytical-psychology"
+series: "Analytical Psychology, Symbolism & the Depth Mind"
+series_url: "/analytical-psychology-symbolism-depth-mind/"
+repository: "https://github.com/Content-Catalyst-LLC/analytical-psychology-code/tree/main/articles/dream-interpretation-in-analytical-psychology"
+status: "companion scaffold"
+created_for: "WordPress article companion repository"
+description: >
+  Synthetic-data and conceptual-modeling scaffold for the article "Dream
+  Interpretation in Analytical Psychology." The materials demonstrate how
+  conscious one-sidedness, unconscious pressure, affective intensity, symbolic
+  repertoire, compensatory signals, symbolic recurrence, dream-series phases,
+  motif networks, and integration can be modeled for symbolic-process research
+  methods.
+responsible_use: >
+  These materials are for synthetic-data research, methods demonstration,
+  conceptual modeling, symbolic-process analysis, institutional learning, and
+  reproducible workflows. They are not intended for diagnosis, therapy, dream
+  interpretation for real people, psychological assessment, clinical
+  decision-making, treatment recommendation, mental-health evaluation, crisis
+  intervention, employment screening, workplace surveillance, individual
+  performance management, or individual evaluation.
+keywords:
+  - analytical psychology
+  - Jungian psychology
+  - dream interpretation
+  - dreams
+  - compensation
+  - symbolic amplification
+  - personal association
+  - dream series
+  - shadow
+  - anima animus
+  - Self
+  - individuation
+  - unconscious
+  - symbolic recurrence
+  - motif networks
+  - dream structure
+  - synthetic data
+  - reproducible workflow
+languages:
+  - Python
+  - R
+  - SQL
+  - Julia
+  - C
+  - C++
+  - Fortran
+  - Go
+  - Rust
