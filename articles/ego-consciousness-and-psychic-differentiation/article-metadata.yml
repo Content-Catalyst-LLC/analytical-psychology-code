@@ -1,0 +1,52 @@
+title: "Ego, Consciousness, and Psychic Differentiation"
+slug: "ego-consciousness-and-psychic-differentiation"
+series: "Analytical Psychology, Symbolism & the Depth Mind"
+series_url: "/analytical-psychology-symbolism-depth-mind/"
+repository: "https://github.com/Content-Catalyst-LLC/analytical-psychology-code/tree/main/articles/ego-consciousness-and-psychic-differentiation"
+status: "companion scaffold"
+created_for: "WordPress article companion repository"
+description: >
+  Synthetic-data and conceptual-modeling scaffold for the article "Ego,
+  Consciousness, and Psychic Differentiation." The materials demonstrate how
+  ego coherence, psychic differentiation, function balance, reflective
+  flexibility, unconscious pressure, persona identification, shadow activation,
+  one-sidedness, ego rigidity, ego inflation, psychic strain, and individuation
+  readiness can be modeled for symbolic-process research methods.
+responsible_use: >
+  These materials are for synthetic-data research, methods demonstration,
+  conceptual modeling, symbolic-process analysis, institutional learning, and
+  reproducible workflows. They are not intended for diagnosis, therapy,
+  psychological assessment, clinical decision-making, treatment recommendation,
+  mental-health evaluation, crisis intervention, employment screening,
+  workplace surveillance, individual performance management, personality
+  assessment, or individual evaluation.
+keywords:
+  - analytical psychology
+  - Jungian psychology
+  - ego
+  - consciousness
+  - psychic differentiation
+  - ego strength
+  - ego rigidity
+  - ego inflation
+  - function balance
+  - typology
+  - persona
+  - shadow
+  - unconscious
+  - individuation
+  - psychic strain
+  - symbolic life
+  - network modeling
+  - synthetic data
+  - reproducible workflow
+languages:
+  - Python
+  - R
+  - SQL
+  - Julia
+  - C
+  - C++
+  - Fortran
+  - Go
+  - Rust

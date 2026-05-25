@@ -1,0 +1,25 @@
+source,target,weight,notes
+ego,thinking,0.52,Ego relation to thinking function
+ego,feeling,0.36,Ego relation to feeling function
+ego,sensation,0.38,Ego relation to sensation function
+ego,intuition,0.42,Ego relation to intuition function
+ego,persona,0.48,Ego adaptation through social role
+thinking,ego,0.34,Thinking feedback into ego organization
+feeling,ego,0.30,Feeling feedback into ego organization
+sensation,ego,0.30,Sensation feedback into ego organization
+intuition,ego,0.32,Intuition feedback into ego organization
+persona,ego,0.42,Persona reinforces conscious identity
+persona,shadow_cluster,-0.24,Persona may exclude shadow contents
+shadow_cluster,ego,0.44,Shadow pressure affects ego coherence
+complex_cluster,ego,0.54,Complex activation affects conscious orientation
+complex_cluster,shadow_cluster,0.58,Complexes and shadow material are linked
+shadow_cluster,symbolic_imagery,0.46,Shadow often appears through symbolic imagery
+complex_cluster,body_affect,0.42,Complexes carry bodily affect
+body_affect,feeling,0.48,Bodily affect and feeling judgment are linked
+body_affect,symbolic_imagery,0.38,Affect feeds symbolic imagery
+intuition,symbolic_imagery,0.50,Intuition links to symbolic patterning
+symbolic_imagery,ego,0.34,Symbolic imagery addresses ego consciousness
+reflective_flexibility,ego,0.42,Reflection stabilizes ego relation
+reflective_flexibility,shadow_cluster,-0.30,Reflection reduces shadow possession
+reflective_flexibility,complex_cluster,-0.28,Reflection reduces complex possession
+reflective_flexibility,persona,-0.18,Reflection loosens persona identification

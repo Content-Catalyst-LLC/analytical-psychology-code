@@ -1,0 +1,12 @@
+node,cluster,activation,notes
+ego,conscious_center,1.00,Center of consciousness and practical orientation
+thinking,function,0.82,Conceptual judgment and analytical distinction
+feeling,function,0.48,Affective valuation and relational judgment
+sensation,function,0.58,Concrete perception and embodied realism
+intuition,function,0.70,Possibility pattern recognition and symbolic anticipation
+persona,adaptation,0.74,Social face and adaptive role structure
+shadow_cluster,unconscious,0.34,Disowned material and rejected psychic contents
+complex_cluster,unconscious,0.44,Affectively charged psychic patterns
+body_affect,embodied,0.54,Bodily feeling somatic affect and instinctive life
+reflective_flexibility,reflective,0.60,Capacity to reflect under pressure and revise conscious standpoint
+symbolic_imagery,symbolic,0.52,Dreams fantasies symbols and imaginal mediation
