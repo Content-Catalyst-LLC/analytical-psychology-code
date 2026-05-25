@@ -1,0 +1,51 @@
+title: "Active Imagination and the Practice of Symbolic Dialogue"
+slug: "active-imagination-and-the-practice-of-symbolic-dialogue"
+series: "Analytical Psychology, Symbolism & the Depth Mind"
+series_url: "/analytical-psychology-symbolism-depth-mind/"
+repository: "https://github.com/Content-Catalyst-LLC/analytical-psychology-code/tree/main/articles/active-imagination-and-the-practice-of-symbolic-dialogue"
+status: "companion scaffold"
+created_for: "WordPress article companion repository"
+description: >
+  Synthetic-data and conceptual-modeling scaffold for the article "Active
+  Imagination and the Practice of Symbolic Dialogue." The materials demonstrate
+  how ego mediation, imaginal activation, reflective response, symbolic relation,
+  ethical containment, destabilization risk, dialogue quality, and integration
+  can be modeled for symbolic-process research methods.
+responsible_use: >
+  These materials are for synthetic-data research, methods demonstration,
+  conceptual modeling, symbolic-process analysis, institutional learning, and
+  reproducible workflows. They are not intended for diagnosis, therapy,
+  psychological assessment, clinical decision-making, treatment recommendation,
+  mental-health evaluation, crisis intervention, employment screening, workplace
+  surveillance, individual performance management, or individual evaluation.
+keywords:
+  - analytical psychology
+  - Jungian psychology
+  - active imagination
+  - symbolic dialogue
+  - ego mediation
+  - imaginal activation
+  - reflective response
+  - symbolic relation
+  - ethical containment
+  - shadow dialogue
+  - dream continuation
+  - guide encounter
+  - child figure
+  - symbolic scene
+  - destabilization risk
+  - inflation risk
+  - individuation
+  - synthetic data
+  - dynamic networks
+  - reproducible workflow
+languages:
+  - Python
+  - R
+  - SQL
+  - Julia
+  - C
+  - C++
+  - Fortran
+  - Go
+  - Rust
