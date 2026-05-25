@@ -1,0 +1,30 @@
+source,target,weight,notes
+criticism_trigger,shame,0.85,Criticism cue activates shame
+criticism_trigger,self_doubt,0.72,Criticism cue activates self doubt
+relational_distance,fear,0.78,Distance cue activates fear
+relational_distance,abandonment_memory,0.82,Distance cue activates abandonment memory
+authority_signal,authority_expectation,0.80,Authority cue activates expectation of judgment
+authority_signal,humiliation_memory,0.66,Authority cue activates humiliation memory
+shame,self_doubt,0.80,Shame intensifies self doubt
+shame,withdrawal,0.74,Shame supports withdrawal
+shame,anger,0.56,Shame may convert into anger
+fear,appeasement,0.68,Fear supports appeasement
+fear,pursuit,0.60,Fear may support anxious pursuit
+anger,defensiveness,0.76,Anger supports defensiveness
+longing,pursuit,0.70,Longing supports pursuit
+humiliation_memory,shame,0.90,Humiliation memory reactivates shame
+abandonment_memory,fear,0.84,Abandonment memory reactivates fear
+abandonment_memory,longing,0.74,Abandonment memory reactivates longing
+authority_expectation,criticism_trigger,0.65,Expectation makes criticism cues easier to detect
+defensiveness,humiliation_memory,0.50,Defensive enactment may revive humiliation memory
+withdrawal,self_doubt,0.44,Withdrawal may feed self doubt
+pursuit,relational_distance,0.48,Pursuit may intensify distance sensitivity
+reflective_pause,shame,-0.42,Reflection reduces shame activation
+reflective_pause,anger,-0.38,Reflection reduces anger activation
+reflective_pause,defensiveness,-0.36,Reflection reduces defensive action
+relational_buffer,fear,-0.40,Buffering reduces fear
+relational_buffer,abandonment_memory,-0.32,Buffering reduces abandonment activation
+relational_buffer,withdrawal,-0.26,Buffering reduces withdrawal
+shame,symbolic_image,0.52,Shame may appear as exposure imagery
+fear,symbolic_image,0.46,Fear may appear as pursuit flood or collapse imagery
+abandonment_memory,symbolic_image,0.50,Abandonment may appear as empty house door or lost child

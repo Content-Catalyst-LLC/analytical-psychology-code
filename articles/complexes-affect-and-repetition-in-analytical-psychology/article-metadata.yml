@@ -1,0 +1,51 @@
+title: "Complexes, Affect, and Repetition in Analytical Psychology"
+slug: "complexes-affect-and-repetition-in-analytical-psychology"
+series: "Analytical Psychology, Symbolism & the Depth Mind"
+series_url: "/analytical-psychology-symbolism-depth-mind/"
+repository: "https://github.com/Content-Catalyst-LLC/analytical-psychology-code/tree/main/articles/complexes-affect-and-repetition-in-analytical-psychology"
+status: "companion scaffold"
+created_for: "WordPress article companion repository"
+description: >
+  Synthetic-data and conceptual-modeling scaffold for the article "Complexes,
+  Affect, and Repetition in Analytical Psychology." The materials demonstrate
+  how complex activation, affective charge, trigger intensity, relational
+  threat, shame cues, evaluation pressure, regulation, relational buffering,
+  recurrence probability, projection, transference, and affect-weighted network
+  dynamics can be modeled for symbolic-process and depth-psychology research
+  methods.
+responsible_use: >
+  These materials are for synthetic-data research, methods demonstration,
+  conceptual modeling, symbolic-process analysis, institutional learning, and
+  reproducible workflows. They are not intended for diagnosis, therapy,
+  psychological assessment, clinical decision-making, treatment recommendation,
+  mental-health evaluation, employment screening, workplace surveillance,
+  individual performance management, or individual evaluation.
+keywords:
+  - analytical psychology
+  - Jungian psychology
+  - complexes
+  - affect
+  - repetition
+  - personal unconscious
+  - complex activation
+  - affective recurrence
+  - trigger response
+  - regulation
+  - relational buffering
+  - projection
+  - transference
+  - trauma
+  - affective memory
+  - psychic repetition
+  - synthetic data
+  - reproducible workflow
+languages:
+  - Python
+  - R
+  - SQL
+  - Julia
+  - C
+  - C++
+  - Fortran
+  - Go
+  - Rust

@@ -1,0 +1,19 @@
+node,cluster,affect_weight,notes
+criticism_trigger,trigger,0.90,External cue involving criticism judgment or perceived correction
+relational_distance,trigger,0.86,External cue involving distance silence delay or ambiguity
+authority_signal,trigger,0.84,External cue involving hierarchy evaluation institution or command
+shame,affect,1.00,Affective exposure humiliation or self-condemnation
+fear,affect,0.88,Affective threat vigilance or anticipatory danger
+anger,affect,0.76,Affective boundary force rage resentment or protest
+longing,affect,0.80,Affective attachment desire pursuit or repair seeking
+self_doubt,cognition,0.82,Interpretive collapse around competence value or adequacy
+humiliation_memory,memory,1.00,Affective memory of exposure ridicule or degradation
+abandonment_memory,memory,0.94,Affective memory of absence loss or nonresponse
+authority_expectation,expectation,0.86,Expectation that authority will judge shame or dominate
+withdrawal,response,0.72,Defensive retreat silence avoidance or collapse
+defensiveness,response,0.74,Counterattack explanation justification or guardedness
+appeasement,response,0.68,Conflict reduction by compliance pleasing or self-erasure
+pursuit,response,0.70,Anxious pursuit testing reassurance seeking or clinging
+reflective_pause,regulation,0.30,Capacity to notice the pattern before full enactment
+relational_buffer,regulation,0.28,Stable relationship safety repair or trusted witness
+symbolic_image,symbolic_output,0.62,Dream fantasy motif or image that gives form to recurrence
