@@ -1,0 +1,50 @@
+title: "The Collective Unconscious: Meaning, Scope, and Controversy"
+slug: "the-collective-unconscious-meaning-scope-and-controversy"
+series: "Analytical Psychology, Symbolism & the Depth Mind"
+series_url: "/analytical-psychology-symbolism-depth-mind/"
+repository: "https://github.com/Content-Catalyst-LLC/analytical-psychology-code/tree/main/articles/the-collective-unconscious-meaning-scope-and-controversy"
+status: "companion scaffold"
+created_for: "WordPress article companion repository"
+description: >
+  Synthetic-data and conceptual-modeling scaffold for the article "The
+  Collective Unconscious: Meaning, Scope, and Controversy." The materials
+  demonstrate how symbolic recurrence, motif co-occurrence, archetypal patterning,
+  semantic networks, latent structural hypotheses, cultural context, personal
+  context, transmission alternatives, and responsible interpretive guardrails
+  can be modeled for symbolic-process and corpus-based research methods.
+responsible_use: >
+  These materials are for synthetic-data research, methods demonstration,
+  conceptual modeling, symbolic-process analysis, corpus exploration,
+  institutional learning, and reproducible workflows. They are not intended for
+  diagnosis, therapy, psychological assessment, private dream interpretation,
+  religious reductionism, cultural extraction, employment screening, workplace
+  surveillance, individual performance management, or individual evaluation.
+keywords:
+  - analytical psychology
+  - Jungian psychology
+  - collective unconscious
+  - archetype
+  - archetypal image
+  - symbolic recurrence
+  - motif analysis
+  - semantic networks
+  - myth
+  - religion
+  - dream interpretation
+  - cultural transmission
+  - symbolic structure
+  - latent patterning
+  - corpus analysis
+  - responsible interpretation
+  - synthetic data
+  - reproducible workflow
+languages:
+  - Python
+  - R
+  - SQL
+  - Julia
+  - C
+  - C++
+  - Fortran
+  - Go
+  - Rust
