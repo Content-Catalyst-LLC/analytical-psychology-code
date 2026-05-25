@@ -1,0 +1,51 @@
+title: "Dreams, Compensation, and the Prospective Function"
+slug: "dreams-compensation-and-the-prospective-function"
+series: "Analytical Psychology, Symbolism & the Depth Mind"
+series_url: "/analytical-psychology-symbolism-depth-mind/"
+repository: "https://github.com/Content-Catalyst-LLC/analytical-psychology-code/tree/main/articles/dreams-compensation-and-the-prospective-function"
+status: "companion scaffold"
+created_for: "WordPress article companion repository"
+description: >
+  Synthetic-data and conceptual-modeling scaffold for the article "Dreams,
+  Compensation, and the Prospective Function." The materials demonstrate how
+  conscious one-sidedness, unconscious pressure, affective intensity, latent
+  growth, prior dream material, compensatory motifs, prospective motifs,
+  dream-series phase shifts, symbolic centrality, and integration can be
+  modeled for symbolic-process research methods.
+responsible_use: >
+  These materials are for synthetic-data research, methods demonstration,
+  conceptual modeling, symbolic-process analysis, institutional learning, and
+  reproducible workflows. They are not intended for diagnosis, therapy, dream
+  interpretation for real people, psychological assessment, clinical
+  decision-making, treatment recommendation, mental-health evaluation, crisis
+  intervention, employment screening, workplace surveillance, individual
+  performance management, or individual evaluation.
+keywords:
+  - analytical psychology
+  - Jungian psychology
+  - dreams
+  - dream interpretation
+  - compensation
+  - prospective function
+  - unconscious
+  - dream series
+  - one-sided consciousness
+  - latent growth
+  - psychic development
+  - individuation
+  - compensatory motifs
+  - prospective motifs
+  - symbolic centrality
+  - dream networks
+  - synthetic data
+  - reproducible workflow
+languages:
+  - Python
+  - R
+  - SQL
+  - Julia
+  - C
+  - C++
+  - Fortran
+  - Go
+  - Rust
