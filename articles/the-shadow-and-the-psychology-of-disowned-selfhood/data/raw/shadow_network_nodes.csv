@@ -1,0 +1,19 @@
+node,cluster,activation,notes
+moral_self_image,persona,1.00,Preferred moral identity and conscious innocence claim
+competence,persona,0.90,Conscious competence and successful self-image
+self_control,persona,0.90,Conscious discipline and restraint
+care_identity,persona,0.82,Conscious helper or caring identity
+aggression,shadow,0.20,Disowned anger aggression and boundary force
+envy,shadow,0.20,Disowned envy comparison and painful desire
+dependency,shadow,0.30,Disowned need attachment and dependency
+grief,shadow,0.30,Disowned grief loss and mourning
+vulnerability,shadow,0.30,Disowned openness fragility and exposure
+desire,shadow,0.28,Disowned erotic appetite ambition or longing
+resentment,shadow,0.18,Disowned resentment exhaustion and anger under helpfulness
+reflective_awareness,reflection,0.60,Capacity to notice projection and hold contradiction
+projection_to_other,response,0.00,Attribution of disowned traits to others
+shame_response,response,0.00,Collapse shame or self-condemnation after shadow activation
+defensiveness,response,0.00,Protective reaction against recognition
+withdrawal,response,0.00,Retreat avoidance or isolation after shadow activation
+integration_capacity,integration,0.20,Ability to recognize contain symbolize and transform shadow material
+repair_behavior,integration,0.10,Capacity for accountability apology repair and changed conduct

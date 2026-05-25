@@ -1,0 +1,53 @@
+title: "The Shadow and the Psychology of Disowned Selfhood"
+slug: "the-shadow-and-the-psychology-of-disowned-selfhood"
+series: "Analytical Psychology, Symbolism & the Depth Mind"
+series_url: "/analytical-psychology-symbolism-depth-mind/"
+repository: "https://github.com/Content-Catalyst-LLC/analytical-psychology-code/tree/main/articles/the-shadow-and-the-psychology-of-disowned-selfhood"
+status: "companion scaffold"
+created_for: "WordPress article companion repository"
+description: >
+  Synthetic-data and conceptual-modeling scaffold for the article "The Shadow
+  and the Psychology of Disowned Selfhood." The materials demonstrate how
+  latent disowned material, ego identity, persona rigidity, cue intensity,
+  affective charge, reflective capacity, shadow discrepancy, shadow activation,
+  projection intensity, shame response, defensiveness, withdrawal,
+  responsibility, and integration capacity can be modeled for symbolic-process
+  research methods.
+responsible_use: >
+  These materials are for synthetic-data research, methods demonstration,
+  conceptual modeling, symbolic-process analysis, institutional learning, and
+  reproducible workflows. They are not intended for diagnosis, therapy,
+  psychological assessment, clinical decision-making, treatment recommendation,
+  mental-health evaluation, crisis intervention, moral ranking, employment
+  screening, workplace surveillance, individual performance management, or
+  individual evaluation.
+keywords:
+  - analytical psychology
+  - Jungian psychology
+  - shadow
+  - disowned selfhood
+  - projection
+  - persona
+  - individuation
+  - personal unconscious
+  - collective shadow
+  - self-deception
+  - moral psychology
+  - shame response
+  - persona rigidity
+  - reflective capacity
+  - shadow integration
+  - symbolic process
+  - network modeling
+  - synthetic data
+  - reproducible workflow
+languages:
+  - Python
+  - R
+  - SQL
+  - Julia
+  - C
+  - C++
+  - Fortran
+  - Go
+  - Rust

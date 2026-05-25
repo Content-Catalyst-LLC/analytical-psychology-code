@@ -1,0 +1,31 @@
+source,target,weight,notes
+moral_self_image,self_control,0.70,Moral identity reinforces conscious restraint
+competence,moral_self_image,0.50,Competence supports public self-image
+care_identity,moral_self_image,0.42,Care identity reinforces moral self-image
+self_control,moral_self_image,0.40,Control supports preferred identity
+moral_self_image,aggression,-0.32,Moral self-image suppresses aggression
+moral_self_image,envy,-0.28,Moral self-image suppresses envy
+self_control,desire,-0.30,Control suppresses desire
+competence,dependency,-0.26,Competence suppresses dependency
+care_identity,resentment,-0.24,Care identity suppresses resentment
+aggression,projection_to_other,0.80,Disowned aggression may be projected
+envy,projection_to_other,0.70,Disowned envy may be projected
+dependency,shame_response,0.70,Disowned dependency may produce shame
+grief,withdrawal,0.60,Disowned grief may produce withdrawal
+vulnerability,defensiveness,0.70,Disowned vulnerability may produce defensiveness
+desire,projection_to_other,0.58,Disowned desire may be projected
+resentment,projection_to_other,0.62,Disowned resentment may be projected
+reflective_awareness,aggression,-0.40,Reflection reduces possession by aggression
+reflective_awareness,envy,-0.40,Reflection reduces possession by envy
+reflective_awareness,dependency,-0.30,Reflection reduces shame-based dependency projection
+reflective_awareness,grief,-0.24,Reflection makes grief more thinkable
+reflective_awareness,vulnerability,-0.24,Reflection makes vulnerability more thinkable
+reflective_awareness,desire,-0.20,Reflection differentiates desire from compulsion
+reflective_awareness,resentment,-0.28,Reflection helps name resentment
+reflective_awareness,integration_capacity,0.54,Reflection increases integration capacity
+integration_capacity,projection_to_other,-0.42,Integration reduces projection
+integration_capacity,shame_response,-0.34,Integration reduces shame collapse
+integration_capacity,defensiveness,-0.34,Integration reduces defensiveness
+integration_capacity,withdrawal,-0.28,Integration reduces withdrawal
+integration_capacity,repair_behavior,0.52,Integration supports accountable repair
+repair_behavior,moral_self_image,-0.22,Repair loosens false innocence
